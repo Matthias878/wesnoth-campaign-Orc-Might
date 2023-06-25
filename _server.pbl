@@ -1,0 +1,7 @@
+icon="units/human-outlaws/fugitive.png~RC(magenta>red)"
+title = "Libertytwo"
+version = 0.1.1
+author = "Numero"
+description = "currently in development can be played to the last szenario. 5 szenarios normal Difficuulty. You are the young chief of an orcish tribe and have to prove yourself"
+type = campaign
+email = numero2002@web.de

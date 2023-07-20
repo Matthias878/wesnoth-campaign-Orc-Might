@@ -1,7 +1,10 @@
-icon="units/human-outlaws/fugitive.png~RC(magenta>red)"
-title = "Libertytwo"
-version = 0.1.1
+icon="units/orcs/warrior-defend-1.png~RC(magenta>red)"
+title = "Orc Might"
+version = 0.1.3
 author = "Numero"
-description = "currently in development can be played to the last szenario. 5 szenarios normal Difficuulty. You are the young chief of an orcish tribe and have to prove yourself"
+description = "Currently in development, can be played until the last scenario. Five scenarios with somewhat varying levels of difficulty (in genaral intermediate). In this campaign, you assume the role of a young chief leading an orcish tribe, and your objective is to prove yourself and demonstrate your abilities.     Hello everyone! As an independent creator, I'd love to share my latest work with you. Join my email list to be the first to know when I've made something new: https://forms.gle/5wtazSwQdRXuoDTy8 "
 type = campaign
 email = numero2002@web.de
+[feedback]
+    topic_id=57032
+[/feedback]

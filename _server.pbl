@@ -1,8 +1,8 @@
 icon="units/orcs/warrior-defend-1.png~RC(magenta>red)"
 title = "Orc Might"
-version = 0.1.3
+version = 0.1.4
 author = "Numero"
-description = "Currently in development, can be played until the last scenario. Five scenarios with somewhat varying levels of difficulty (in genaral intermediate). In this campaign, you assume the role of a young chief leading an orcish tribe, and your objective is to prove yourself and demonstrate your abilities.     Hello everyone! As an independent creator, I'd love to share my latest work with you. Join my email list to be the first to know when I've made something new: https://forms.gle/5wtazSwQdRXuoDTy8 "
+description = "Currently in development, can be played until the last scenario. Five scenarios with slightly different difficulty level (generally medium). In this campaign you take the role of a young chieftain leading an orc tribe, and your goal is to prove yourself and demonstrate your abilities.              If you like what I'm doing and want to know what new things I'm doing, join my email list: https://forms.gle/5wtazSwQdRXuoDTy8"
 type = campaign
 email = numero2002@web.de
 [feedback]

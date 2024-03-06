@@ -1,11 +1,11 @@
 icon="units/orcs/warrior-defend-1.png~RC(magenta>red)"
 title = "Orc Might"
-version = 0.3.4
+version = 0.5.5
 author = "Numero"
 description = "Play as a young orcish chief, that has to prove himself. Experience his story as he goes for the biggest prize of them all "Wesnoth". Learn how the history of the kingdom of Wesnoth is changed forever by the orcish tribe of bloodthorns.
 
 
-Currently in development, 4/5 scenarios can be played. Intended: five scenarios with medium difficulty level (currently balanced for normal)."
+Currently in development, 5/5 scenarios can be played. Intended: five scenarios with medium difficulty level."
 type = campaign
 email = numero2002@web.de
 [feedback]

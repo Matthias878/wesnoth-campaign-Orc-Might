@@ -1,0 +1,91 @@
+attacks
+
+scepter - dead water
+
+sword astral - liberty
+
+items
+
+boot - ??
+
+maps
+
+liberty - liberty
+
+misc
+
+armour icon - numero
+
+portraits
+
+angarthing - hammer of thursagan
+
+karrag - hammer of thursagan
+
+kai krellis - dead water
+
+volk - dead water
+
+deoran - the south guard
+
+dommel - liberty
+
+maddock - liberty
+
+orions - liberty
+
+relana -liberty
+
+konrad - heir to the throne
+
+owaec - eastern invasion
+
+goboarcher - bera
+
+story
+
+konrad - heir to the throne
+
+time 
+
+all - north wind
+
+units
+
+wisp - deep elves
+
+banneret - eastern invasion
+
+citizien - eastern invasion
+
+clan captain/lord/princeling - eastern invasion
+
+king - coming of the strom
+
+mounted general - the south guard / the north wind
+
+human outlaws - liberty
+
+merfolk - dead water
+
+axeman - The_Gnat
+
+demolisher - doofus-01
+
+despot - The Golden Age / The_Gnat / Forestdragon
+
+heavy - SFault
+
+spear - numero
+
+trailblazer - doofus-01
+
+startmage - hammer of thursagan
+
+healer - hammer of thursagan
+
+healermaster - hammer of thursagan
+
+runelord - hammer of thursagan
+
+bigmap - liberty

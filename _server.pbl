@@ -1,11 +1,10 @@
 icon="units/orcs/warrior-defend-1.png~RC(magenta>red)"
 title = "An Orcish Might"
-version = 1.0.3
+version = 1.0.4
 author = "Numero"
-description = "Play as a young orcish chief who has to prove himself worthy of the Bloodthorn throne. Experience his story as he strives for the biggest prize of them all: 'Wesnoth'. Learn how the history of the kingdom of Wesnoth is changed forever by the orcish tribe of Bloodthorns, as a civil war is averted and alliances are forged that only a few years earlier may have seemed impossible.
+description = "Wesnoth's golden age is over and its future unclear. Play as a young orc who must prove himself worthy of the Bloodthorn throne. Experience his story as he strives for the greatest prize of all, the human kingdom of Wesnoth. Learn how its history is changed forever by the orcish Bloodthorn tribe, how civil war is averted and alliances are forged that seemed impossible only a few years ago.
 
 What makes this campaign special:
-
 -Interesting and changing objectives (big battles, races to kill, survival, 3/5 scenarios have no turn limit, different/changing team combinations...)
 -Many colorful, changing, and realistic characters, including moral gray zones
 -Integrates with established Wesnoth lore and expands it (can be seen as a prequel to 'Descent into Darkness')
@@ -14,14 +13,15 @@ What makes this campaign special:
 -A lot of specially coded unique mechanics/events (rallying fleeing troops to fight for you, comedic ghouls and trolls, forced march, special map-wide attacks...)
 If you encounter any bugs, please notify me so they can be fixed.
 
-NOW FINISHED
-5 scenarios (all battle) - medium difficulty level.
+NOW FINISHED - 5 scenarios (all battle), medium difficulty level.
 
 v1.0.1: many bugs fixed, annoyances removed, full changelog on the forums
 
 v1.0.2: made the story clearer in Sz4, bugs fixed, full changelog on the forums
 
-v1.0.3: hotfix - bug made finishing campaign impossible - fixed"
+v1.0.3: hotfix - bug made finishing campaign impossible - fixed
+
+v1.0.4: art with credit added, Sz4 balance/ai adjusted, bugs fixed, full changelog on the forums"
 type = campaign
 email = numero2002@web.de
 [feedback]

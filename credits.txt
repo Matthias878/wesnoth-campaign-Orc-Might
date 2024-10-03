@@ -1,20 +1,32 @@
+CREDITS FOR IMAGE ART:
+
+------------------
+
 attacks
 
 scepter - dead water
 
 sword astral - liberty
 
+-------------------
+
 items
 
 boot - ??
+
+-----------------
 
 maps
 
 liberty - liberty
 
+--------------------
+
 misc
 
 armour icon - numero
+
+--------------------
 
 portraits
 
@@ -42,13 +54,19 @@ owaec - eastern invasion
 
 goboarcher - bera
 
+--------------------------
+
 story
 
 konrad - heir to the throne
 
+--------------------
+
 time 
 
 all - north wind
+
+-------------------------
 
 units
 
@@ -87,5 +105,7 @@ healer - hammer of thursagan
 healermaster - hammer of thursagan
 
 runelord - hammer of thursagan
+
+--------------------
 
 bigmap - liberty

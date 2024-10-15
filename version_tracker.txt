@@ -1,0 +1,10 @@
+
+
+server version 	-	internal version (because it bugged me that I gave a hotfix it's own version)
+v1.0.0		-	v.1.0.0			initial release
+v1.0.1		-	v.1.0.1			new version
+v1.0.2		-	v.1.0.2			new version
+v1.0.3		-	v.1.0.2b		hotfix
+v1.0.4		-	v.1.0.3			new version
+v1.0.4b		-	v.1.0.3b		hotfix
+v1.0.5		-	v.1.0.4			new version

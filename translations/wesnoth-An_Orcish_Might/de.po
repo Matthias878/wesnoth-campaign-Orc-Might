@@ -1,0 +1,5183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2024-12-16 19:16 UTC\n"
+"PO-Revision-Date: 2024-12-16 20:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#. [campaign]: id=Orcmight
+#: An_Orcish_Might/_main.cfg:10
+msgid "An Orcish Might"
+msgstr "Die orkische Macht"
+
+#. [campaign]: id=Orcmight
+#: An_Orcish_Might/_main.cfg:22
+msgid "Bloodchief"
+msgstr ""
+
+#. [campaign]: id=Orcmight
+#: An_Orcish_Might/_main.cfg:22
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=Orcmight
+#: An_Orcish_Might/_main.cfg:24
+msgid ""
+"\n"
+"    <span font_family='Oldania ADF Std' color='#baac7d' font_size='xx-"
+"large'>An Orcish Might</span>\n"
+"    <small><i>Starts in the year 358 YW</i></small>\n"
+"\n"
+"Orcish society rewards strength, now you must prove yourself as a young "
+"orcish leader. Wesnoth is in turmoil. The great Haldric IV has died and "
+"short-lived fisher kings rule. No one seems capable of ending the growing "
+"power struggles in Wesnoth. Can you turn this chaos to your own advantage?\n"
+"    \n"
+msgstr ""
+
+#. [campaign]: id=Orcmight
+#: An_Orcish_Might/_main.cfg:30
+msgid ""
+"(<b>Intermediate level</b>, 5 scenarios.)\n"
+"\n"
+"\n"
+"I would appreciate any feedback you have for the campaign: "
+msgstr ""
+
+#. [scenario]: id=01_The_Raid
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:4
+msgid "01 The Raid"
+msgstr ""
+
+#. [part]
+#. any notes you may have about your translations can be brought up here, this is displayed as the very first message
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:15
+msgid ""
+"NOTE: If you find any bugs or spelling mistakes, I would greatly appreciate "
+"them, the link to give feedback is in the campaign overview. Also in case "
+"you are interested in translating 'An Orcish Might' into your language a "
+"guide what to do is on the forum post for 'An Orcish Might' in case you "
+"already know what to do you can send the files to me on the forum post, as a "
+"private message on the forums or on Discord. Links can be found in the "
+"campaign overview."
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:19
+msgid ""
+"Orcish society values only strength; a leader leads and survives only as "
+"long as no one manages to wrest the title from him. A rather unfortunate "
+"tradition for Tragtrad, the young chief of the Bloodthorn Orcs.\n"
+"            \n"
+"(1/2)"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:25
+msgid ""
+"His strength being questioned from the outset cast doubts on his claim to "
+"the Bloodthorn Throne. Although not yet said aloud, most were already "
+"following the orders of a 'Fal Khag' considered by many to be the strongest "
+"bloodthorn in a generation.\n"
+"            \n"
+"(2/2)"
+msgstr ""
+
+#. [side]: id=Tragtrad
+#. [side]: type=Bloodthorn Orcish Leader, id=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:42
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:40
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:49
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:50
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:40
+msgid "Tragtrad's Bloodthorns"
+msgstr ""
+
+#. [leader]: type=Bloodthorn Orcish Leader, id=Tragtrad
+#. [side]: type=Bloodthorn Orcish Leader, id=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:57
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:35
+msgid "Tragtrad"
+msgstr ""
+
+#. [unit]: id=Umaduro, type=Orcish Archer
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:67
+msgid "Umaduro"
+msgstr ""
+
+#. [side]
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:90
+msgid "Wesnothian barony of Parthyn"
+msgstr ""
+
+#. [side]: id=Fal Khag
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:98
+msgid "Fal Khag's Bloodthorns"
+msgstr ""
+
+#. [leader]: type=Orcish Warrior, id=Fal Khag
+#. [unit]: type=Orcish Warlord, id=Fal Khag
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:114
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3116
+msgid "Fal Khag"
+msgstr ""
+
+#. [side]: type=Elvish Hero, id=Lionel
+#. This dude is later refrenced in a small joke about Lionel Messi
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:162
+msgid "Lionel"
+msgstr ""
+
+#. [side]: type=Elvish Hero, id=Lionel
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:166
+msgid "Elves of the north woods"
+msgstr ""
+
+#. [label]
+#. This should be whatever orc would call merfolk in your language
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:224
+msgid "Fin-ners"
+msgstr ""
+
+#. [label]
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:228
+msgid "Swampy Mist"
+msgstr ""
+
+#. [unit]: type=Javelineer, id=Hermann
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:269
+msgid "Hermann"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:305
+msgid "Oh look, humans."
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#. I am not yet sure what if any speech pattern to give Fal Khag, so do what you want, just make it consistant - other than I did
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:310
+msgid "Aye, easy pickings for ‘s."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:314
+msgid "Perhaps they come in peace, looking to trade."
+msgstr ""
+
+#. [message]: speaker=Hermann
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:353
+msgid ""
+"BY THE DECREE OF THE GOOD KING ADIRSU, SUCCESOR TO THE RICH RUNDAR AND THE "
+"GLORIED HALDRIC:"
+msgstr ""
+
+#. [message]: speaker=Hermann
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:357
+msgid ""
+"THESE LANDS ARE TO BE WIPED OF ORCS TO PROTECT THE KINGDOM OF WESNOTH AND "
+"ITS EQUAL ELENSEFAR!"
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:361
+msgid "'o cares..."
+msgstr ""
+
+#. [message]: speaker=Lionel
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:365
+msgid "See, Wesnoth attacks the orcs, this is our time to strike as well!"
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:369
+msgid "It looks like the elves volunteer a' food for 'r wolves, 'ery 'oble."
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:373
+msgid ""
+"Tragtrad! Pay attention, 'cause this is how it's gonna be: I'll make quick "
+"work of that fancy elven scum, you better show some guts and take care of "
+"that puny human. If I finish 'im off before you do, I'll be the chief. So, "
+"tell me straight, can you handle that weakling human or are ya gonna "
+"embarrass yerself?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:377
+msgid "But..."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:381
+msgid ""
+"Don't worry, we will win this contest, cousin. We only need to kill the "
+"human before Fal Khag kills the elf."
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:391
+msgid "Kill the human leader before Fal Khag kills the elvish leader."
+msgstr ""
+
+#. [objective]: condition=lose
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:395
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:340
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:909
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:960
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:992
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1031
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1322
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1660
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:489
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:710
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:791
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:829
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:862
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:903
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:941
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:974
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1018
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1051
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1079
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1115
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1148
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1176
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1400
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1734
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:822
+msgid "Death of Tragtrad"
+msgstr ""
+
+#. [objective]: condition=lose
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:399
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:336
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:905
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:956
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:988
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1027
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1318
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1656
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:485
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:714
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:795
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:833
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:866
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:907
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:945
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:978
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1022
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1055
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1083
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1119
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1152
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1180
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1404
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1738
+msgid "Death of Umaduro"
+msgstr ""
+
+#. [objective]: condition=lose
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:403
+msgid "Death of Fal Khag"
+msgstr ""
+
+#. [objective]: condition=lose
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:407
+msgid "Death of Lionel"
+msgstr ""
+
+#. [note]
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:415
+msgid "In this campaign, the orcish ruler has an advancement to level 4."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:435
+msgid "Don't dilly-dally Tragtrad, if Fal Khag wins, it will be your head!"
+msgstr ""
+
+#. [message]: speaker=hideguard
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:451
+msgid "You will have to fight me to get any further!"
+msgstr ""
+
+#. [message]: speaker=secguard
+#. this is the joke about Lionel Messi
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:468
+msgid "I will give my life for Lionel M.!"
+msgstr ""
+
+#. [message]: speaker=hideguard
+#. should be someone that has known Lionel M for a long time
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:481
+msgid "I have failed you!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:521
+msgid "Fish guys, it's time to serve your masters."
+msgstr ""
+
+#. [message]: speaker=me
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:525
+msgid ""
+"Orc now you are going to regret the day you captured us as much as I do."
+msgstr ""
+
+#. [message]: speaker=mz
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:529
+msgid ""
+"See, they are attacked by humans. We can help fight alongside them against "
+"the orcs for our freedom."
+msgstr ""
+
+#. [unit]: id=Marast the lost, type=Naga Ringcaster
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:551
+msgid "Marast the Lost"
+msgstr ""
+
+#. [message]: speaker=Marast the lost
+#. like most naga, Marast is hissing, also his name is a play on the sailing mast
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:566
+msgid ""
+"Zzzzzzz, don't worry. I, Razzza-King of the Zzzzerpent zzzamudra-zzzea and "
+"kumara-Prinzzze of Neezzzzz, will put them to death."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:579
+msgid "Damm it, he's close! Hurry up Tragtrad, kill the damn human."
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:597
+msgid "Ha, you see - YOU ARE TOO WEAK"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:602
+msgid "Not a single orc wanted to follow Tragtrad anymore."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:607
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:641
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:786
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1786
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1482
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1498
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1625
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2588
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2623
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2640
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3380
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3649
+#: An_Orcish_Might/utils/reusedEvents.cfg:146
+#: An_Orcish_Might/utils/reusedEvents.cfg:168
+msgid ""
+"Please don't forget to give feedback (good and bad)! The link is in the "
+"campaign overview."
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:623
+msgid "I was... too weak...?"
+msgstr ""
+
+#. [message]: speaker=Lionel
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:627
+msgid "Finally the chief is dead, we can live in peace."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:631
+msgid "No wait I am the chief!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:636
+msgid ""
+"The Orcs, not trusting Tragtrad abilities fled the battlefield as soon as "
+"Fal Khag died!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:656
+msgid "You didn't have to fight, dumbass."
+msgstr ""
+
+#. [message]: speaker=Hermann
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:660
+msgid ""
+"(coughing up blood) Orc, know this: I am descended from the mighty Haldric "
+"the first. My brethren shall not suffer this affront to our family's honor "
+"without retribution. Justice will be served..."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:664
+msgid "Yeah, yeah..."
+msgstr ""
+
+#. [message]: speaker=Lionel
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:676
+msgid "Retreat!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:680
+msgid "Well this should clear things up."
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:684
+msgid "Pah. The humans were just weaker, you don't deserve to be our leader."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:688
+msgid "You do as told. I am your chief!"
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:692
+msgid ""
+"No longer, you have not earned being chief, not a single raid have you ever "
+"led, I'm gonna be the new chief of the Bloodthorns."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:696
+msgid "You will regret this!"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:700
+msgid "We have far fewer grunts we should retreat."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:710
+msgid "And you, King of the Southern Seas?"
+msgstr ""
+
+#. [message]: speaker=Marast the lost
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:714
+msgid "Zzzz yezzzzz I follozzz the true winner zzzz."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:731
+msgid ""
+"Orcs follow me, today is not our day, we need to flee, we will return and "
+"kill the Usurper in his sleep. Fal Khag, never again shall you rest easy! "
+"This is an oath I take, on the honor of my father, I will sit the Bloodthorn "
+"Throne again!"
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/01_The_Raid.cfg:781
+msgid ""
+"Yeah, you coward! Flee with your feeblings and cravens. You, 'Chief of "
+"Renegades', pah!"
+msgstr ""
+
+#. [scenario]: id=02_The_Ford
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:4
+msgid "02 The Ford"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:14
+msgid ""
+"Tragtrad fled as fast as he could, for he knew that Fal Khag could not "
+"tolerate another orc claiming the Bloodthorn throne, Tragtrad’s throne. "
+"Grimly, he mustered his own followers, just a small group of true, strong "
+"orcs were with him, his closest cousins. First and foremost, Umaduro "
+"assisting with wise counsel. Otherwise, he had only a handful of weak, "
+"inexperienced, and dull orcs. Not even goblins were to be found, those "
+"pissers were too afraid to go with the one, they deemed weaker. But that "
+"meant he would have no wolf riders in the foreseeable future. Well, at least "
+"none of 'them' are going to challenge him, he thought with gallows humor.\n"
+"            \n"
+"(1/2)"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:20
+msgid ""
+"The smarty, Umaduro, suggested seeking the aid of a troll clan, but all "
+"their attempts proved unsuccessful. Trolls were reluctant to leave their "
+"caves unless compelled, and Tragtrad lacked the numbers to force them. His "
+"only option was to earn glory and honor through battle, to prove himself and "
+"triumph over his enemies. Then orcs would follow him again! Luckily his own "
+"ragtag group found a massive horde of orcs, that wanted to plunder the human "
+"kingdom of Wesnoth. Seeing a chance for glory, Tragtrad agreed to follow "
+"with his orcs the orders of a 'Rormuk the Butcher', hoping to emulate Fal "
+"Khag and claim not just a share of the glory, but all of it. \n"
+"            \n"
+"(2/2)"
+msgstr ""
+
+#. [unit]: id=Manma, type=Duelist
+#. [unit]: id=Manma, type=$Prisoner_Manma.type
+#. [unit]: id=Manma, type=$ManmaUnit.type
+#. [unit]: id=Manma, type=$ManmaUnit.type, role=ManherrForce
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:95
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:507
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1885
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2512
+msgid "Manma"
+msgstr ""
+
+#. [unit]: id=Left, type=Duelist
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:110
+msgid "Left"
+msgstr ""
+
+#. [unit]: id=Right, type=Duelist
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:122
+msgid "Right"
+msgstr ""
+
+#. [side]: id=Manherr
+#. [label]
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:140
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:302
+msgid "Parthyn"
+msgstr ""
+
+#. [leader]: type=Lieutenant, id=Manherr
+#. [unit]: type=Lieutenant, id=Manherr
+#. [unit]: type=Lieutenant, id=Manherr, role=ManherrForce
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:148
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2006
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2056
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2498
+msgid "Manherr"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:268
+msgid "Rormuk the Butcher"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:273
+msgid "Rormuk's horde"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:332
+msgid "Kill the human leader (Manherr)"
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:383
+msgid "You understand? You hold --- I kill!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:387
+msgid "Yes of course and when we are winning, we'll finish them off together."
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:391
+msgid "No! You and your cravens hold your part of the river, idiot!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:395
+msgid "Alright, boss."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:399
+msgid "Asshole."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:403
+msgid ""
+"Just so you know, I don't like this plan. I don't know what it is, but I "
+"have a very bad feeling this will go wrong..."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:407
+msgid ""
+"I trust your instincts Umaduro, you have always been helpful to me, stay "
+"careful in the upcoming battle, without you I am hopeless."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:411
+msgid ""
+"Pah orcs attacking Parthyn again? This means Hermann has failed to clear "
+"their camps... and the orcs have killed him."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:415
+msgid "So you think those are Whitefang orcs?"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:419
+msgid "They have killed my brother..."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:423
+msgid "Noooo... their numbers seem a little low for Whitefang orcs..."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:427
+msgid "My brother... is dead..."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:431
+msgid ""
+"They also don't look like the smartest orcs, attacking at the beginning of "
+"winter."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:435
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:443
+msgid "I will avenge my brother."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:439
+msgid "But if it's not the Whitefangs, who is it?"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:447
+msgid ""
+"I will avenge my borther! No orc deserves to see the light of day! No orc "
+"shall violate the sacred earth of Parthyn! I will kill them all!"
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:451
+msgid ""
+"(with a commanding voice) IN THE NAME OF THE NEW GOOD KING LETARG: STAY AWAY "
+"FROM WESNOTH, OR I WILL SEND MY BROTHER AFTER YOU!"
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:455
+msgid ""
+"RORMUK THE BUTCHER. That is the name I will whisper into your kings ears "
+"before I cut his throat."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:459
+msgid "AND TRAGTRAD THE BLOODTHORN!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:469
+msgid ""
+"You no longer can recruit new wolf riders, because goblins have abandoned "
+"you! You can however recall those riders, that have seen you in battle the "
+"last time."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:537
+msgid "This is some fine armor, I will take it!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:562
+msgid "This armor is pretty neat, I think I like it."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:566
+msgid "Give that armor to me!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:570
+msgid "Hmmmm..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:595
+msgid ""
+"I found some armor, it seems of much better quality than ours! I think I'd "
+"like to take it."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:599
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:633
+msgid "You will take nothing! Armor is for the chief, give it to me!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:629
+msgid ""
+"I found some armor, it seems of much better quality than what is made by our "
+"goblins! I think I'd like to take it."
+msgstr ""
+
+#. [object]: id=armor
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:646
+msgid "Finely crafted armor"
+msgstr ""
+
+#. [object]: id=armor
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:649
+msgid ""
+"The wearer of this armor gains 40% additional resistance to pierce attacks."
+msgstr ""
+
+#. [object]: id=armor
+#. [object]: id=swiftfeet
+#. [object]: id=fireBook
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:650
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1147
+#: An_Orcish_Might/utils/reusedEvents.cfg:323
+msgid "You are not worthy."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:792
+msgid ""
+"Look, they bring horseman across the great river, careful, they can deal a "
+"lot of damage. Stay in the hills, woods and fight during the night. Don't "
+"forget, their riders cannot cross the mountains!"
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:801
+msgid ""
+"Yes! My orcs, we only need to cross the damn river and the cities of the "
+"humans are ready to plunder. For glory! Muhaha."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:810
+msgid "Hmmm, they seem to be more numerous than we had hoped for."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:814
+msgid "You think?"
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:830
+msgid ""
+"You dare strike Rormuk the Butcher? You shall learn I have earned my name in "
+"many battles!"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:847
+msgid ""
+"What clan are you? I will kill all of you. I will eradicate you to your last "
+"grunt."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:851
+msgid ""
+"Weakling, I am an orc of Tragtrads', we are Bloodthornes, and you better "
+"remember us."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:866
+msgid "Who are you!?"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:870
+msgid "My name is Manma. You killed my brother. Prepare to die."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:874
+msgid "Psycho!"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:891
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:938
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:978
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1013
+msgid "(whispering) No, look this is not winnable, we need to retreat!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:895
+msgid "Fine, but if we flee before Rormuk dies no orc will follow us."
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:900
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:951
+msgid ""
+"Survive longer than Rormuk (He needs to be dead) THEN flee by putting "
+"Tragtrad on the signpost at 39 1"
+msgstr ""
+
+#. [objectives]
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:903
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:954
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:986
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1025
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1316
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1654
+msgid "Defeat the enemy leader"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:942
+msgid "Fine, but if we flee before Rormuk. No orc will follow us."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:946
+msgid "I am sure Rormuk is dumb enough to be killed soon!"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:983
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1022
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1651
+msgid "Flee by putting Tragtrad on the signpost at 39 1"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1017
+msgid "Fine."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1070
+msgid "I have a bad feeling about pushing onwards..."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1074
+msgid "You were not asked, shut up, idiot."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1098
+msgid "Doesn't seem very smart to leave the safe valley, but what do I know..."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1102
+msgid "Your opinion is duly ignored."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1128
+msgid "I don't know, it just seems extremely stupid to go down here..."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1132
+msgid "Are you all big babies?"
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1156
+msgid "Idiot, stay at your side and hold the river!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1160
+msgid "What?"
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1186
+msgid "Hey, underling, I told you to send your grunts south, not to me!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1190
+msgid "Yes boss."
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1216
+msgid "Tragtrad, tell your grunts to go east, will ya?"
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1242
+msgid "I TOLD YOU, KEEP YOUR GRUNTS EAST!"
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1268
+msgid "Follow my order and go back. One more step, and you are my enemy."
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1294
+msgid ""
+"I told you to hold your part of the river, either you go back or you will "
+"kiss my blade."
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1296
+msgid "Fight against Rormuk."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1300
+msgid ""
+"Grunts, Rormuk is an idiot, I will be your new chief, you hear me! Rormuk I "
+"will cut you down!"
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1304
+msgid "Pah, try me sucker, I am twice the orc you are."
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1313
+msgid "Kill the orcish leader Rormuk and the human leader Manherr."
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1338
+msgid "Go back."
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1342
+msgid ""
+"Tragtrad, If you or any of your grunts go any further west, I will show you "
+"why I'm called Rormuk the butcher!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1362
+msgid "We need to flee, or we will die!"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1366
+msgid "Only if Rormuk is dead."
+msgstr ""
+
+#. [message]: role=cowards
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1424
+msgid ""
+"I ain't sticking around to be hacked to pieces for a brute that is too "
+"stupid to see when a battle is unwinnable!"
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1428
+msgid "Paaah! I don't need orcs that can't even hold their sword in a fight!"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1432
+msgid "See, the first of Rormuk’s orcs are fleeing the battle!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1436
+msgid "Maybe I can rally them to follow me?"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1440
+msgid "Is that who you want? The cowards that flee at first sign of trouble?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1444
+msgid "Well I don't have many options, do I?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1449
+msgid ""
+"Tragtrad can rally Rormuks fleeing orcs (those who have the name 'the "
+"Coward'), to follow him, by standing next to them. They will flee to the "
+"signpost at 39 1 and if they reach it, they will leave the map."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1528
+msgid ""
+"You grunt, stop running away! You are an orc, not a weakly human! Follow me "
+"for glory, our time comes!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1583
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1760
+msgid "He seems important, take him prisoner."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1588
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1771
+msgid "Noo brother! Stupid orc, you will regret this!"
+msgstr ""
+
+#. [message]: speaker=Rormuk the Butcher
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1610
+msgid ""
+"Ahhh, my glory! And you 'chief of renegades' don't you dare run away again!"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1614
+msgid ""
+"Ignore him, now it’s definitely time to flee, this battle is lost. You have "
+"to rally them."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1618
+msgid ""
+"ORCS, TRUE ORCS, TO ME NOW. THESE PUNY HUMENS FIGHT DIRTY! THIS IS NO FAIR "
+"FIGHT! WE WILL COME AGAIN UND MURDER EVERY LAST OF THEM IN THEIR SLEEP. NOW "
+"WE MUST RETREAT!"
+msgstr ""
+
+#. [message]: role=rallied
+#. [message]: role=ralliedagain
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1640
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1618
+#: An_Orcish_Might/utils/reusedEvents.cfg:290
+#: An_Orcish_Might/utils/reusedEvents.cfg:435
+msgid "YES! FOR TRAGTRAD! FOR THE BLOODTHORNS!"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1732
+msgid "I will not let my brother's killer go unpunished!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1756
+msgid "Nice try, but very dumb."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1777
+msgid ""
+"IT IS TIME TO RETREAT! Orcs follow me! The clan of the Bloodthorns will be "
+"your new family! Human be warned: We will come again and bring the revenge "
+"of the Bloodthorns!"
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/02_The_Ford.cfg:1781
+msgid ""
+"Stinking orc, you will regret killing and capturing my brothers. I will hunt "
+"you down like the dog you are!"
+msgstr ""
+
+#. [scenario]: id=03_The_Mages
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:4
+msgid "03 The Mages"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:18
+msgid ""
+"Fleeing, running away! Again! Why must he always be running from something? "
+"Tragtrad could never catch a break. First, it was the weight of "
+"responsibility bearing down on him, then the looming shadow of Fal Khag, and "
+"now the relentless pursuit of the humans. But amidst the chaos, Tragtrad "
+"sought solace in the silver linings. Most of Rormuk's horde now trailed "
+"behind him, a ragged band of survivors clinging to his leadership. Among "
+"them was the welcome addition of goblin riders again, easing his fears of "
+"ambush lurking around every corner. Also, this time, when his horde "
+"encountered a troll clan in trouble, he had more than enough orcs to bully "
+"them into fighting for him, meaning he now commanded a true orc army, "
+"including trolls. Tragtrad thought on his ideas and ambitions, seeking a "
+"path to plunder Wesnoth for his own glory was the only way, it was Karzahn's "
+"dream to be avenged, as a bloodthorn Tragtrad had no other option, he needed "
+"to fight Wesnoth, he needed to be the one to end Wesnoth as it was right "
+"now, every bloodthorn would follow him, if he could accomplish this task. He "
+"found himself drawn to his prisoner for more information about the human "
+"kingdom, however the captive gnawed at his resolve, fueled by the human's "
+"assessments about the strength and especially number of humans soldiers.\n"
+"\n"
+"(1/3)"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:24
+msgid ""
+"Their raid on the humans was poorly timed, for logistical reasons and "
+"because the mountain passes only allowed it then, usually the orcs attacked "
+"in the spring, giving them more than enough time to return home and find "
+"shelter. Yet now it was already winter and they did not know where to go, as "
+"the biting cold beat down relentlessly on longlegged and shortlegged alike, "
+"he thought of Fal Khag, whose untimely challenge to his leadership was the "
+"reason for the perilous situation they now found themselves in, he was the "
+"reason why his horde was succumbing to the cold, he was the reason why "
+"Tragtrad could not return home to his nephews (assuming he had enough time), "
+"he was the reason!\n"
+"\n"
+"(2/3)"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:30
+msgid ""
+"As he massaged his fingers to remove the frost, Tragtrad grimaced, fearing "
+"that the bitter cold would extinguish his dreams of revenge on Fal Khag "
+"before they even had a chance to ignite. As Tragtrad grew more desperate "
+"with the cold, he began to question his prisoner. The prisoner spoke of a "
+"fortress in the mountains that promised a warm hearth and protection from "
+"the harsh elements. Tragtrad feared a trap, but he had no choice, for he "
+"knew that the elements were a merciless enemy that would not refrain from "
+"leaving more and more frozen corpses on the ground. With the spectre of "
+"impending doom breathing down his neck, Tragtrad walked on, frantically "
+"searching the mountainsides to find the shelter.\n"
+"\n"
+"(3/3)"
+msgstr ""
+
+#. [side]: type=Shadow Mage, id=Orion, role=Talkmage
+#. [unit]: id=Orion #how exp. etc? matter?, type=Shadow Mage
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:84
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2659
+msgid "Orion"
+msgstr ""
+
+#. [side]: type=Shadow Mage, id=Orion, role=Talkmage
+#. [side]: type=Mage of Light, id=Peter, role=Talkmage
+#. [side]: type=Arch Mage, id=Dieter, role=Talkmage
+#. [side]: type=Dark Sorcerer, id=Mag Onalds, role=Talkmage
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:87
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:119
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:150
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:181
+msgid "Teachers of the hidden school"
+msgstr ""
+
+#. [side]: type=Mage of Light, id=Peter, role=Talkmage
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:116
+msgid "Peter"
+msgstr ""
+
+#. [side]: type=Arch Mage, id=Dieter, role=Talkmage
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:147
+msgid "Dieter"
+msgstr ""
+
+#. [side]: type=Dark Sorcerer, id=Mag Onalds, role=Talkmage
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:178
+msgid "Mag Onalds"
+msgstr ""
+
+#. [unit]: id=Death, type=Orcish Death, role=killer
+#. [unit]: id=Death, type=Orcish Death
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:246
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:951
+msgid "Death"
+msgstr ""
+
+#. [trait]: id=agile
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:258
+#: An_Orcish_Might/units/orc/Orcish_Death.cfg:27
+msgid "agile"
+msgstr ""
+
+#. [trait]: id=agile
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:259
+msgid ""
+"Attacking units have a 20% lower chance to hit. Agility is the strongest "
+"trait, only very select units have this power. Units with the agility trait "
+"are often almost impossible to kill, which should be taken into account when "
+"setting up your troops."
+msgstr ""
+
+#. [unit]: id=dudo, type=Orcish Assassin, role=newbies
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:278
+msgid "Dudor"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:314
+msgid "Whoa, what is going on here?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:318
+msgid ""
+"Aye, fellow orc, my name is Tragtrad, chief of the Bloodthorns, are you "
+"friend or foe?"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:322
+msgid "I am neither friend nor foe, I am a simple trader."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:326
+msgid "A trader? But you don't have any goods with you?"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:330
+msgid ""
+"Ahhh that's where you are wrong, my goods are always with me you see, I am a "
+"trader of lives."
+msgstr ""
+
+#. [message]: speaker=Orion
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:334
+msgid ""
+"Enough talk. I assume you're the one I bought the assassins from. I didn't "
+"expect a personal delivery to be honest."
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:338
+msgid ""
+"And you might be Orion I trust? Always nice to do business. But no normally "
+"I don't do delivery myself. But today I plan on catching two birds with one "
+"stone..."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:342
+msgid ""
+"You did not answer, friend or foe and tell me your name, I do not much like "
+"not knowing my counterparts name?"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:346
+msgid ""
+"The name my mother gave me before she died in my arms is long forgotten, you "
+"might call me... Death. And I will not be your foe if you don't stand in my "
+"way."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:389
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:405
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:425
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:441
+msgid "The magic veil seems to be receding."
+msgstr ""
+
+#. [label]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:449
+msgid "Lonely Peak"
+msgstr ""
+
+#. [label]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:453
+msgid "Craggies' Cove"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:481
+msgid "Kill all Enemy Leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:493
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:718
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:799
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:837
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:870
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:911
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:949
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:982
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1026
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1059
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1087
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1123
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1156
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1184
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1408
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1742
+msgid "Death of Manma"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:532
+msgid "What is this place?"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:536
+msgid ""
+"I've heard rumours, wasn't sure to believe them, but apparently they are "
+"true."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:540
+msgid "You weren't sure? But still let us look for it whilst freezing!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:544
+msgid "Cousin calm. So human?"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:548
+msgid ""
+"A school for all sorts of mages, that are or aren't welcome in Wesnoth "
+"anymore."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:552
+msgid ""
+"AY MAGES, CAN YOU HEAR ME? WE ARE ONLY LOOKING FOR A PLACE TO REST THIS "
+"WINTER."
+msgstr ""
+
+#. [message]: speaker=Peter
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:556
+msgid "You've found us."
+msgstr ""
+
+#. [message]: speaker=Dieter
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:560
+msgid "Prepare to die!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:564
+msgid ""
+"Well, my orcs, we will have to wipe those mages out to have a warm winter. "
+"It will be a good opportunity to sharpen our blades once more. And human you "
+"have led us here, you will help us win this fight."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:568
+msgid ""
+"I will, don't want to freeze to death either, from what I've heard they "
+"aren't the most welcome to strangers, human or not."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:572
+msgid ""
+"Look around, tactically I would push a fairly large force, maybe a whole "
+"castle of archers and grunts, through the swamp to the eastern leader. Then "
+"move on to the smaller fortress, use mainly trolls for the western leader, "
+"they have some resistances and can heal themselves. You yourself should wait "
+"for the big advance of the other two leaders. After you have beaten back the "
+"main force, it's time to take the rest of your army north."
+msgstr ""
+
+#. [unit]: id=Floyd, type=Troll Hero
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:576
+msgid "Floyd"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:589
+msgid "Floyd, did you hear that?"
+msgstr ""
+
+#. [message]: speaker=Floyd
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:593
+msgid "Floyd did hear. Floyd is pink"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:597
+msgid ""
+"What? ...anyway, remember what we said, you help us, we will remove the "
+"boulder in front of your cave, right?"
+msgstr ""
+
+#. [message]: speaker=Floyd
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:601
+msgid "(scratching his head) Right, Floyd did hear. Floyd is pink."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:605
+msgid ""
+"Riiight... just remember you are most useful when going to the left valley, "
+"hills and so on are there."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:614
+msgid "Human, how did you know about this place?"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:618
+msgid ""
+"I have a friend who often stayed at the court of my father, he lives here "
+"somewhere and hates the other mages, maybe he'll help us."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:622
+msgid ""
+"But if he really still lives here, I should talk to him, he doesn't like "
+"strangers. Or orcs."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:631
+msgid "Hmmm, you see the magical darkness and light coming from their keeps?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:635
+msgid "Now that you say it... That's gonna be a problem?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:644
+msgid "Human, where is this old court-friend of yours?"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:648
+msgid ""
+"I don't know, but it will be a bit apart from the others, they would avoid "
+"him."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:652
+msgid "You are just trying to waste our time, human."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:656
+msgid "Will you ever have faith in me?"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:660
+msgid "Why should I?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:676
+msgid "This ruin is empty - no mage here..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:692
+msgid "Ahh wait there is a old weakling here - Aye, are you a mage?!"
+msgstr ""
+
+#. [message]: speaker=oldie
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:696
+msgid ""
+"Nooo, I... I... I am only living here alone, m... my children have all left "
+"me here. Pl... Plea... Please, I don't have much but you can have it all."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:700
+msgid "OK, kill her and take what she has."
+msgstr ""
+
+#. [message]: speaker=Orion
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:726
+msgid "Wait, don't kill me, I can help you."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:730
+msgid "Give me one reason why your life should be worth anything to me."
+msgstr ""
+
+#. [message]: speaker=Orion
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:734
+msgid ""
+"You don't have any assassins in your ranks. If you let me go, I can lead you "
+"to where I bought the assassins from."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:738
+msgid ""
+"Alright, your life is on the line. Well, it seems like we will find this "
+"'Death' ourselves."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:742
+msgid "Another prisoner? Does not seem smart to me..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:761
+msgid ""
+"Why do you let yourself be bought by a human? How can a true orc have so "
+"little self respect? Paah."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:779
+msgid "Are you too afraid to answer? You should be."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:797
+msgid "What a sad little orc. Not good blood."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:801
+msgid "His tongue was cut out!"
+msgstr ""
+
+#. [message]: speaker=Orion
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:826
+msgid ""
+"I hope you are as good killers as promised, your chance to prove it is now."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:849
+msgid "OH NO A LANDSLIDE! DANGER, ROLLING STONES!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:883
+msgid "Everyone alright?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:887
+msgid "Hey, some kind of strange rock rolled here."
+msgstr ""
+
+#. [message]: race=troll
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:891
+msgid "This is not just any Rock, THIS IS A GIFT OF ELVIS!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:913
+msgid ""
+"Behold, this boulder before me bears the sign of Elvis himself. Blessed are "
+"we by his presence; this was no common landslide but Kentucky Rain. The "
+"shaman say we must fulfill his great will. (This unit will gain the ability "
+"to 'inspire' other trolls, which is the leadership ability for trolls of the "
+"same level or lower, only works on troll units)"
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:915
+msgid "Take it."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:936
+msgid ""
+"Trolls! Hear me out! Elvis has blessed us! We shall fight for his glory! We "
+"are no hound dogs! We are the fist to elvis' voice! We will crush our "
+"enemies!"
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:941
+msgid ""
+"I am not worthy of this sign by Elvis himself. I can't claim it, someone "
+"else has to!"
+msgstr ""
+
+#. [unit]: id=The Dumb, type=Dark Adept
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:965
+msgid "The Dumb"
+msgstr ""
+
+#. [unit]: id=The Smart, type=Dark Adept
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:978
+msgid "The Smart"
+msgstr ""
+
+#. [message]: speaker=The Smart
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:991
+msgid "So you are afraid now?"
+msgstr ""
+
+#. [message]: speaker=The Dumb
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:996
+msgid ""
+"Of course I'm not. It's just ... old Donald said not to go near that thing."
+msgstr ""
+
+#. [message]: speaker=The Smart
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1006
+msgid ""
+"Yeah? He also said never to eat pineapple because it makes you fart louder, "
+"maybe Mag O. is just old, and you are frightened."
+msgstr ""
+
+#. [message]: speaker=The Dumb
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1017
+msgid "No I am not!"
+msgstr ""
+
+#. [message]: speaker=The Smart
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1021
+msgid "Then open it..."
+msgstr ""
+
+#. [message]: speaker=The Dumb
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1026
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1035
+msgid "I will!"
+msgstr ""
+
+#. [message]: speaker=The Smart
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1030
+msgid "You will not!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1059
+msgid "Who were these idiots?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1080
+msgid "There is something very creepy in there."
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1085
+msgid "I love surprises! Open it!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1099
+msgid "Ihh kinda gross."
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1108
+msgid "Naaaah I will not open a random coffin next to a necromancer!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1132
+msgid ""
+"There are a pair of boots here, shall I put them on? (The unit will gain the "
+"skirmisher ability)"
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1139
+msgid "Put them on."
+msgstr ""
+
+#. [object]: id=swiftfeet
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1143
+msgid "Boots of swiftness"
+msgstr ""
+
+#. [object]: id=swiftfeet
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1146
+msgid "Putting on these shoes, you feel faster."
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1180
+msgid "Nah I won't wear these."
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1186
+msgid "Nah I can't wear these."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1207
+msgid "You will die by my own sword!"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1223
+msgid "You are quick to make enemies."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1239
+msgid "I don't like this place. It is filled with decay."
+msgstr ""
+
+#. [unit]: id=Volk, type=Shady Mage
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1246
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1516
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:327
+#: An_Orcish_Might/utils/reusedEvents.cfg:47
+msgid "Volk"
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1283
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1330
+msgid "Who dares disturb my rest!"
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1293
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1581
+msgid "Wait, there is some great danger here! Show yourself"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1348
+msgid "Good morning mage, your clock is ticking, Death has been bought."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1352
+msgid "Which of the bastards was it?"
+msgstr ""
+
+#. [message]: role=Talkmage
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1356
+msgid "You are dangerous; you need to die."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1360
+msgid "You dare to oppose me openly? You should have kept leaving me alone."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1364
+msgid ""
+"I must tell you, Death, I don't die easy, you're not the first one to find "
+"that out."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1393
+msgid "(To Tragtrad) that is the friend I told you about."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1397
+msgid ""
+"Volk! It's good to see you again. I was afraid the others would have killed "
+"you."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1401
+msgid "Manma? Can it be you? And side by side with orcs?"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1405
+msgid ""
+"It is a very long story, but for now will you help us fight these mages?"
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1409
+msgid "Together with orcs? Must it be?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1413
+msgid "Great mage we ask you for your mighty force."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1417
+msgid ""
+"Well at least he asks nicely. Manma I will help you. For your father’s "
+"hospitality. May he rest in peace."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1421
+msgid "Are we bootlicking humans now..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1426
+msgid ""
+"Once per scenario Volk can deal any unit on the map 15 hp damage. Do this by "
+"right clicking the enemy you want to target. (15hp damage, only useable once "
+"per scenario, all units are possible targets, including your own)"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1438
+msgid "AAAHHH."
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1442
+msgid "(bleeding) I am wounded, but we will see each other again Tragtrad."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1446
+msgid "How do you know my name?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1477
+msgid "Damn he was crucial to the plan"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1493
+msgid "Noo, Winter is coming."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1530
+msgid "I cannot be killed!"
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1534
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1548
+msgid "Well, this was quite fun actually. Manma I am coming with you!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1538
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1552
+msgid "Oh, really? That's gooood."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1560
+msgid "Gnawwwwww. Good morning."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1564
+msgid "What is going on here?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/03_The_Mages.cfg:1595
+msgid ""
+"My orcs you have fought bravely it is time for a feast, we will rest this "
+"winter and with the first melting of snow in spring we will earn glory you "
+"have not dreamed about in your wildest dreams! You will be remembered for "
+"aeons to come! You are my orcs; you are my kin!"
+msgstr ""
+
+#. [scenario]: id=04_The_Clash
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:4
+msgid "04 The Clash"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:20
+msgid ""
+"Tragtrad and his horde used the winter to gather themselves and formulate a "
+"plan on what to do next summer. The number of fighters under Tragtrad’s "
+"command tremendously increased, since many a lost orc or those who had fled "
+"some other fight sought shelter in the warm castle of the mages and Tragtrad "
+"took them all. \n"
+"            \n"
+"(1/3)"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:26
+msgid ""
+"'No, Wesnoth is a monarchy, that means the king is the boss of everyone, but "
+"the barons, have some sovereignty over the land their fathers were assigned "
+"to.' 'But how can the king and the baron rule the same land?'... For "
+"Umaduros liking Tragtrad spend far to much time talking to their human "
+"prisoners and not enough killing them. Even worse, he himself, his cousins "
+"former chief advisor, was sidelined more and more, and even excluded from "
+"Tragtrads meetings with the prisoners. Culminating on the day, that Umaduro "
+"saw Orion go free.\n"
+"(2/3)"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:31
+msgid ""
+"Umaduro confronted Tragtrad, but all his concern fell on deaf ears, he "
+"wasn’t even told why Orion was let go. ‘You wouldn’t understand’ was all the "
+"answer he got. Time passed as snow fell outside their castle and the former "
+"close friends grew distant. Until one day the snow began to melt, and the "
+"time was ripe for new campaigns.\n"
+"            \n"
+"(3/3)"
+msgstr ""
+
+#. [side]: type=Elvish Druid, id=Adrea
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:64
+msgid "Adrea"
+msgstr ""
+
+#. [side]: type=Elvish Druid, id=Adrea
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:67
+msgid "Elvish Outpost"
+msgstr ""
+
+#. [side]: type=Lieutenant, id=Manherr
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:178
+msgid "Parthyn forces"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:355
+msgid ""
+"The horses are exhausted milord, they have hardly had a break on our way "
+"here!"
+msgstr ""
+
+#. [message]: speaker=someon_that_t
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:359
+msgid ""
+"I think, our riders will not be able to perform as well as we are used to, "
+"our way here has been to difficult."
+msgstr ""
+
+#. [side]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:371
+msgid "Local orcish raiders & Death"
+msgstr ""
+
+#. [leader]: type=Orcish Ruler, id=GraGra
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:378
+msgid "GraGra"
+msgstr ""
+
+#. [side]: type=Merman Soldier King #hidden?, id=Kai Flullis
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:450
+msgid "Kai Flullis"
+msgstr ""
+
+#. [label]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:543
+msgid "Anvil's End"
+msgstr ""
+
+#. [label]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:547
+msgid "Tower of Dread"
+msgstr ""
+
+#. [label]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:551
+msgid "Lost Elvish Outpost"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:621
+msgid "There is a chest of gold here, around 180 pieces."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:645
+msgid "The fish had 160 gold hehe!"
+msgstr ""
+
+#. [label]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:658
+msgid "MOVE TRAGTRAD HERE"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:706
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:894
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1111
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1391
+msgid "Reach the target at the bank of the river with Tragtrad (28,5)"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:782
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1014
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1725
+msgid ""
+"Reach the target at the bank of the river with Tragtrad (28,5) AND eliminate "
+"the human threat by leading manma into the human camp (this objective is "
+"achieved when the humans no longer attack)"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:787
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:825
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1396
+msgid "Defeat the orcish leader in the south"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:787
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:825
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:858
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:899
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:937
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:970
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1396
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1730
+msgid "(special bonus)"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:820
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1047
+msgid ""
+"Eliminate the human threat by leading manma into the human camp (this "
+"objective is achieved when the humans no longer attack)"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:853
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1075
+msgid ""
+"Reach the south bank of the great river with Tragtrad (specifically the "
+"shown mainland, not the islands in front) AND eliminate the human threat by "
+"leading manma into the human camp (this objective is achieved when the "
+"humans no longer attack)"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:858
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:899
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:937
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:970
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1730
+msgid "Defeat the Orcish Leader in the south"
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:965
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1172
+msgid ""
+"Reach the south bank of the great river with Tragtrad (specifically the "
+"shown mainland, not the islands in front)"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1208
+msgid ""
+"According to the human sorcerer, the orc with the assassins lives here "
+"somewhere. The fog is so thick, however, I can barely see my own hand. Orcs, "
+"careful, we don't know what dangers lurk in front of us, we want to cross "
+"the great river, the orc’s assassins are not as important, leave them be if "
+"you must."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1212
+msgid "I say we should just sneak past the assassins."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1216
+msgid ""
+"We travel with too many humans for my taste, I say off with their heads and "
+"immediatly our grunts will fight much better!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1220
+msgid "Calm cousin."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1224
+msgid ""
+"You said you want to cross the great river? I know I agreed to protect "
+"Manma, but still, what is your plan here?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1228
+msgid ""
+"All in due time, in due time. Now I have sent some guards ahead, they should "
+"be here somewhere, if not for that damn fog. Our goal is to reach that river "
+"and fast, we have no time to spare! No time!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1237
+msgid ""
+"If the worst comes to the worst, leave the tribe in the south alone, we need "
+"to rush with all troops north and cross the river!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1253
+msgid "Tarritory ov dad NO noaw GRAGRA - hehehe! Gragra boss not Death!"
+msgstr ""
+
+#. [message]: speaker=servent
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1284
+msgid ""
+"Greetings, great Chief, I am a student and simple messenger of Death. I am "
+"humbled to finally find you, my master has sent me to make you an offer. He "
+"wants you to kill his brother 'GraGra' so he can lead his tribe as your "
+"bannerman. As a sign of his good will I am to be given to your services. For "
+"I am an ambassador my tongue was allowed to stayed, shall I rectify that?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1288
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1321
+msgid "What? -No- leave your tongue."
+msgstr ""
+
+#. [message]: speaker=servent
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1317
+msgid ""
+"Greetings, great Chief, I am to be a present of Death to you. I am humbled "
+"to finally meet you. For I am a present my tongue was allowed to stayed, "
+"shall I rectify that?"
+msgstr ""
+
+#. [message]: speaker=Adrea
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1355
+msgid "You have stayed here for too long orc, it's time for you to die!"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1368
+msgid ""
+"You are funny, elf, come try me, you will learn how much orcish blades like "
+"elvish blood."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1372
+msgid "(Silently) Ahh, so here is our friend."
+msgstr ""
+
+#. [message]: speaker=GraGra
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1379
+msgid ""
+"I don't know brother, with dad paying tribute to the Whitefangs, how can we "
+"win?"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1386
+msgid " (eye rolling) Ahh..."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1427
+msgid ""
+"By the way we still have the book from those mages here. I'll put it here if "
+"someone wants to read it."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1442
+msgid ""
+"Many of you might wonder what we are doing? I will tell you! We are "
+"attacking the heart of Wesnoth itself, Weldyn. Follow me and songs of your "
+"heroic acts will be sung long after your grandchildren have wandered Ilyra!"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1446
+msgid ""
+"Very prudent to raise morale in the troops, but how will you accomplish this "
+"if I might ask? I think you remember what happened the last time we tried to "
+"attack Wesnoth? Let alone Weldyn..."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1450
+msgid ""
+"Thinking ahead as always my cousin, I like it. But you shall know: Orion has "
+"friends in the woods south of the river and he told me that in the beginning "
+"of spring when the river is the widest a crossing opens, that we can use."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1454
+msgid ""
+"You still trust these humans? But, but... we have fought them since forever, "
+"we have no reason to trust each other!"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1458
+msgid "I am right here..."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1462
+msgid "Believe me they have reason enough to stay with us..."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1466
+msgid ""
+"Even if your humans don't lead us into death, how do you imagine we will be "
+"able to go home, I doubt they'll just let us go after we attack their "
+"capital."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1470
+msgid "All in due time cousin, in due time."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1479
+msgid "Hurry up now, we only care about the crossing, everyone follow me now!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1496
+msgid ""
+"I do not trust these elves in their woods, careful guys, do not venture in "
+"alone!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1513
+msgid "Ahhhh! My guard, finally... I knew they were here somewhere."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1588
+msgid "A sign, it just says... 'gold gold gooold'"
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1596
+msgid "Throw "
+msgstr ""
+
+#. [unit]: id=Tester, type=Dwarvish Healer
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1618
+msgid "Brodoskie"
+msgstr ""
+
+#. [message]: speaker=Tester
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1632
+msgid "You gold..."
+msgstr ""
+
+#. [unit]: id=Tester2, type=Dwarvish Runeer
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1636
+msgid "Diorus"
+msgstr ""
+
+#. [message]: speaker=Tester2
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1650
+msgid "...we fight!"
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1666
+msgid "My money is too valuable to just throw it away!"
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1696
+msgid ""
+"Bloodthornes! I finally found you, the whole winter you were hiding, you "
+"will regret killing my brothers!"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1700
+msgid "Brother, I am still alive, let the orcs through."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1704
+msgid "You are alive! But what are you talking about?"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1708
+msgid "Trust me brother."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1712
+msgid "You are not in your right mind, I'll come help you."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1716
+msgid ""
+"He will not listen, I have to talk to him personally, lead me into his camp!"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1720
+msgid "You cannot be serious..."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1750
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1754
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1758
+msgid ""
+"Do you want me to give you some tactical advice on how to win this battle?"
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1760
+msgid "Yes, a wise leader always listens to advice."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1764
+msgid ""
+"The orcs and elves to the south will mostly fight among themselves. Only "
+"send units to the local orc tribe when you are sure you can spare them. Our "
+"main enemy is the humans. The key to winning is simple: gain and hold the "
+"good position using the canyon to your advantage. During the day, place some "
+"cannon-fodder grunts that will mostly fall, but deal a lot of damage with "
+"your strong units during the night. Don't forget to maximize your healing. "
+"And even though I think this is an unbelievably stupid idea, the best way to "
+"get Manma into the human camp is to send him through the swamp and distract "
+"his units by positioning yourself further west."
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1769
+msgid "Shut it, Umaduro. I can do it by myself."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1797
+msgid "Brother listen to me, we need to talk."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1801
+msgid "How can you trust this human."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1806
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1998
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2048
+msgid "Some time goes by..."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1810
+msgid "I knew you shouldn't have trusted him..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1845
+msgid "Suddenly, Tragtrad and his grunts could see movement in the human camp."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1849
+msgid ""
+"Orc listen, if what my brother says is true, I shall not stand in your way. "
+"MEN STOP FIGHTING THE BLOODTHORN ORCS AND FOLLOW ME, we have an important "
+"task."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1899
+msgid "I keep my word."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1903
+msgid ""
+"Good, now we can't waste any more time, all available troops meet me on the "
+"northern shore as swiftly as possible."
+msgstr ""
+
+#. [message]: speaker=Adrea
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1907
+msgid ""
+"We stand alone against orcs on all sides, every able-bodied elf is to take "
+"up arms now!"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1955
+msgid ""
+"Soldier, I, the heir to Haldric's dynasty, who brought us across the sea to "
+"this continent, command you to lay down your arms!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1959
+msgid ""
+"I apologize, sire. Your brother has ordered us not to harm you. He is "
+"worried about you and wants you to get home safely, so please do not resist."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1963
+msgid ""
+"Soldier, your arrogance is disgraceful, I will show you what respect for "
+"higher-ups means."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1978
+msgid ""
+"I see, you have bested me orc, yet do not believe I will die begging for my "
+"life."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:1982
+msgid "My brother listen now, and your life is not forfeit."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2028
+msgid "How could I have been beaten?"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2032
+msgid "We need to talk"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2104
+msgid "What a nice gentlemen..."
+msgstr ""
+
+#. [message]: speaker=GraGra
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2156
+msgid "Father is that you? The fog is so thick."
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2160
+msgid ""
+"Obviously not brother... they're far too many orcs. Father went with many, "
+"many less."
+msgstr ""
+
+#. [message]: speaker=GraGra
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2164
+msgid "AYE, who are you?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#. [message]: speaker=Sir Cirlar
+#. [message]: speaker=Sir Angrot
+#. [message]: speaker=Sir Ceawo
+#. [message]: speaker=Council member Ronor
+#. [message]: speaker=second_unit
+#. [message]: speaker=Umaduro
+#. [message]: speaker=Floyd
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2168
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3245
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3249
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3367
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3371
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1855
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3205
+#: An_Orcish_Might/utils/reusedEvents.cfg:223
+msgid "..."
+msgstr ""
+
+#. [message]: speaker=GraGra
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2172
+msgid "Alright, you just signed your DEATH warrant hahaha!"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2176
+msgid "Ahhh, I think he is a friend of mine."
+msgstr ""
+
+#. [message]: speaker=GraGra
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2180
+msgid "Well he is no friend of mine, so orcs kill him if he stands in our way."
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2186
+msgid "So that's how we meet again. Tragtrad."
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2190
+msgid ""
+"Well it's a shame we must fight each other, in a different world we could be "
+"partners."
+msgstr ""
+
+#. [message]: speaker=GraGra
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2207
+msgid "Noo! Don't kill me."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2211
+msgid "This again..."
+msgstr ""
+
+#. [message]: speaker=GraGra
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2215
+msgid "I can help you, me and my orcs can help you."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2219
+msgid ""
+"Your orcs? No orc is going to follow somebody that whines and begs like you."
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2223
+msgid "That's true..."
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2244
+msgid "As said, MY orcs will follow you."
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2276
+msgid ""
+"I've been dreaming about it for far too long to let you take it away from me!"
+msgstr ""
+
+#. [message]: speaker=GraGra
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2285
+msgid "Gra Gra Gra(choking on his own blood)."
+msgstr ""
+
+#. [message]: speaker=GraGra
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2289
+msgid "Please, brother... let me live. Please..."
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2306
+msgid "No."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2324
+msgid "Will you follow me, as you said?"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2328
+msgid "You did not fullfil your end of the bargain, why should I keep mine?"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2374
+msgid "You should not kill me. You cannot kill me. You don't want to kill me!"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2389
+msgid "Tragtrad - why? We could have achieved greatness together!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2408
+msgid ""
+"Don't kill the elf, I want to talk to him, there must be a better way than "
+"trough the elvish forest."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2420
+msgid "Finally! The treelickers are dead!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2431
+msgid "There is some kind of staff here..."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2437
+msgid "Let's take everything that has value! "
+msgstr ""
+
+#. [message]: speaker=noticer
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2480
+msgid ""
+"Wait, be silent as the trees, don't you hear? Movement in the cursed "
+"northern ruins..."
+msgstr ""
+
+#. [message]: speaker=Adrea
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2484
+msgid ""
+"It pains me, but it seems we must lift the ban on the wormers bridge. Stay "
+"clear of the undead."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2504
+msgid ""
+"Grunts, keep on fighting, for we will always win, go on and fight for honor "
+"and glory! Fight for ME!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2513
+msgid ""
+"Hold your sword! Fight on! Fight until your last day! I will live and die "
+"beside you! Fight on! Slaughter the humans!"
+msgstr ""
+
+#. [unit]: id=Gadei, type=Merman Spearman
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2531
+msgid "Gadei"
+msgstr ""
+
+#. [message]: speaker=Gadei
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2544
+msgid ""
+"Orc, do not try to cross the great river, for we guard it with our lives!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2548
+msgid "Folks, it seems we'll be having fish this evening."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2571
+msgid "Ahhhhh, I could have changed the world but now..."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2583
+msgid ""
+"Grunts! This battle is not yet lost. Tragtrad the great is dead! He "
+"abandoned the old ways and worked with humans. This ends now! Grunts, "
+"abandon discipline—kill everyone! Fight for your glory! Fight for the glory "
+"of your race!"
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2606
+msgid ""
+"Alright take my brother home, he needs some time alone to get his senses "
+"back."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2618
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3644
+msgid "Alright, it's over."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2635
+msgid "We are taking too long; the plan has failed before it has begun."
+msgstr ""
+
+#. [message]: speaker=Orion
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2672
+msgid "You are here."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2676
+msgid "Did you do as agreed?"
+msgstr ""
+
+#. [message]: speaker=Orion
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2680
+msgid ""
+"I did, still think you are positively mad, but yes I did. During the winter "
+"some of our men from the grey woods wandered here to Glyn's Forest. They "
+"should be waiting for you on the other side of the river."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2696
+msgid "Even more humans Tragtrad? You will get us killed."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2700
+msgid "What can you tell me about that forest, mage?"
+msgstr ""
+
+#. [message]: speaker=Orion
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2704
+msgid ""
+"(Shrugging) It's named after some former king's son, only outlaws in there. "
+"Royal hunting grounds."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2708
+msgid "So, we might find the king in this wood?"
+msgstr ""
+
+#. [message]: speaker=Orion
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2712
+msgid ""
+"I doubt that very much, the last king, the father of this one. His body was "
+"separated from his head by the starving peasants when he left the palace. "
+"From what I've heard this one never leaves the royal palace in Weldyn."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2722
+msgid ""
+"Interesting... Orcs follow me now! Follow me for glory! Follow me so your "
+"children will sing your names in honor! This raid will be the biggest one "
+"this world has ever seen!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2737
+msgid "Finally the fog seems to go away."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2854
+msgid ""
+"You can only win the scenario, if Manma has been lead into Manherrs camp!"
+msgstr ""
+
+#. [unit]: type=Grand Knight, id=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2864
+msgid "Sir Cirlar"
+msgstr ""
+
+#. [unit]: type=Clan Lord, id=Sir Ceawo
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2872
+msgid "Sir Ceawo"
+msgstr ""
+
+#. [unit]: type=Banneret, id=Sir Angrot
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2880
+msgid "Sir Angrot"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2887
+msgid "Finally, these damn fish shall rot in their dead mothers’ bodies!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2891
+msgid "Now where are these people Orion talked about?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2902
+msgid "Hello?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2913
+msgid "I really was betrayed by this son of a b..."
+msgstr ""
+
+#. [message]: role=sees
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2950
+msgid "Boss I see something!"
+msgstr ""
+
+#. [message]: role=sees
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2961
+msgid "Boss, a ship is coming!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2967
+msgid "A ship? That's not what Orion said."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2983
+msgid "You seeing what I see?"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:2987
+msgid "I do. I told you not to trust the humans."
+msgstr ""
+
+#. [unit]: type=General, id=Lord Coddam
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3010
+msgid "Lord Coddam"
+msgstr ""
+
+#. [unit]: type=Silver Mage, id=Council member Ronor
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3018
+msgid "Council member Ronor"
+msgstr ""
+
+#. [message]: speaker=Council member Ronor
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3033
+msgid "You are sure this is where we shall meet them?"
+msgstr ""
+
+#. [message]: speaker=Lord Coddam
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3037
+msgid ""
+"Pretty sure, they said we shall be more careful now, the king is pretty "
+"paranoid."
+msgstr ""
+
+#. [message]: speaker=Council member Ronor
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3041
+msgid "But where are they?"
+msgstr ""
+
+#. [message]: speaker=Sir Ceawo
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3051
+msgid "The men of the plains greet you warmly, despite the dire circumstances."
+msgstr ""
+
+#. [message]: speaker=Lord Coddam
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3055
+msgid ""
+"Dire circumstances? So, it is true? The king truly wants to take back "
+"Elensefar by force?"
+msgstr ""
+
+#. [message]: speaker=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3065
+msgid ""
+"My son bears terrible news, but they are true, yes the king is determined to "
+"take back Elensefar by force, he seems to think a swift victory makes him "
+"popular, consolidates his power. Despite most of the barons advising against "
+"it he is amassing most of the Wesnoth army at Halstead. He is ignoring the "
+"treaty."
+msgstr ""
+
+#. [message]: speaker=Council member Ronor
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3069
+msgid ""
+"We are grateful to you for providing this information despite validating our "
+"worst fears, but we must ask why do you do this and how can we trust you "
+"aren't deceiving us?"
+msgstr ""
+
+#. [message]: speaker=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3073
+msgid ""
+"We cannot allow this; the false king risks the future of all humankind for "
+"his own vanity. Ever since the Death of Haldric IV Wesnoth is less and less "
+"secure, we cannot have the armies of Wesnoth fight against Elensefar. The "
+"clans will not allow such stupidity to bring down Wesnoth. We must have a "
+"strong king, with the blood of Haldric the first not the false king Letarg "
+"the son of an unholy birth of a dark wizard and an ambitious self-made queen!"
+msgstr ""
+
+#. [message]: speaker=Council member Ronor
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3077
+msgid ""
+"I do not want to doubt the honor of the clans, but I must ask again, how do "
+"we know you are not deceiving us? Would the king truly break the treaty?"
+msgstr ""
+
+#. [message]: speaker=Sir Angrot
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3094
+msgid ""
+"This distrust between humans is sad, but seems necessary these days. I, "
+"however, can calm your fears, for the clans are prepared to use their own "
+"swords to prove their word."
+msgstr ""
+
+#. [message]: speaker=Council member Ronor
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3098
+msgid ""
+"Do I understand this correctly, the clans are prepared to commit treason and "
+"install a new king?"
+msgstr ""
+
+#. [message]: speaker=Sir Ceawo
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3102
+msgid ""
+"Paaaah, it is no treason to fight against this 'king' of ungodly seed! And "
+"the timing could not be better, with most of the army in the west at "
+"Halstead."
+msgstr ""
+
+#. [message]: speaker=Lord Coddam
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3106
+msgid "But who would you replace him with?"
+msgstr ""
+
+#. [message]: speaker=Sir Angrot
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3110
+msgid ""
+"That is the problem, the best claim would be the barons of Parthyn, but one "
+"of them died fighting the tribes north only recently. Another one was "
+"abducted by some other orcs, and the third one went after his brother, and "
+"he is campaigning north of the great river. We could install one of our own, "
+"but the other Barons would see it only as a power grab, when they return "
+"from Halstead."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3128
+msgid ""
+"(Holding a knife at Manma's throat) Gentlemen I have the perfect solution "
+"for your small issue!"
+msgstr ""
+
+#. [message]: speaker=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3132
+msgid "Who are you, orc? And how dare you approach us!"
+msgstr ""
+
+#. [message]: speaker=Sir Ceawo
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3136
+msgid ""
+"Father, don't you see? He has the brother of the baron of Parthyn, the "
+"rightful heir of Wesnoth."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3218
+msgid "We need to talk; I have an idea you surely will like."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3222
+msgid "(Letting Manma free)."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3233
+msgid "What are you doing!"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3237
+msgid ""
+"This orc's name is Tragtrad, I travelled and fought with him through the "
+"winter. You can trust his word. Even though it is crazy."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3241
+msgid ""
+"Greetings I am Tragtrad Chief of the Bloodthorns, I hope to start a new age "
+"of peace between our two peoples. With the help of Manma. My plan is to "
+"storm the palace with my orcs, kill the reigning king, install Manma as the "
+"new king and we can start to have peace between us."
+msgstr ""
+
+#. [message]: speaker=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3253
+msgid "Peace?"
+msgstr ""
+
+#. [message]: speaker=Lord Coddam
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3257
+msgid "Between orcs and humans?"
+msgstr ""
+
+#. [message]: speaker=Sir Ceawo
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3261
+msgid ""
+"You want us to allow you to plunder through the heartland of Wesnoth? The "
+"plains of the clans? and kill our king?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3265
+msgid "I can let the old one live if you want?"
+msgstr ""
+
+#. [message]: speaker=Sir Ceawo
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3269
+msgid ""
+"How can you guarantee, that the orcs will follow you and don't attack us?"
+msgstr ""
+
+#. [message]: speaker=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3273
+msgid ""
+"I should kill you on the spot, orc! I will not let an orc dethrone any human "
+"king!"
+msgstr ""
+
+#. [message]: speaker=Sir Ceawo
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3277
+msgid "But that's what we said ourselves?"
+msgstr ""
+
+#. [message]: speaker=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3281
+msgid ""
+"But to replace him with someone that would protect Wesnoth. Letting an orc "
+"kill the king is the opposite of protecting Wesnoth! I have sworn my life to "
+"protect, not to betray!"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3285
+msgid ""
+"I said he was crazy too, when he first told me of his plan. But high men of "
+"the plains, I promise you on the blood of my great grandfather Haldric IV: "
+"When I am king, I will do all in my power to protect Wesnoth from all "
+"threats. And (looking to the council member) Wesnoth will enter a new age of "
+"peace with its sovereign neighbour Elensefar."
+msgstr ""
+
+#. [message]: speaker=Council member Ronor
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3289
+msgid "The plan is crazy, but it would not need to shed the blood of good men."
+msgstr ""
+
+#. [message]: speaker=Sir Angrot
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3293
+msgid ""
+"If the clans wouldn't stand in the way. The baron of Tarth would be too far "
+"away to stop them if they go now and rest as little as possible. They could "
+"be at Weldyn, before the army has a chance to return, it would need to be "
+"quick, but it could be done. King Manma, I assume your brother, the baron of "
+"Parthyn, is privy to this 'plot'?"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3297
+msgid ""
+"Yes he is now, with the clans on our side we would not need to fear trouble "
+"from the east."
+msgstr ""
+
+#. [message]: speaker=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3301
+msgid ""
+"You are taking this folly seriously? Do you understand what you are talking "
+"about? You will let a savage orcish horde plunder through the countryside! "
+"Any farmer in their way will die, those to whom we have sworn our protection!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3305
+msgid "We shall leave the villages between here and Weldyn untouched."
+msgstr ""
+
+#. [message]: speaker=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3309
+msgid "And this I shall believe?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3313
+msgid ""
+"You don't need to take part in the fighting, you only need to stand back and "
+"let us through."
+msgstr ""
+
+#. [message]: speaker=Sir Ceawo
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3317
+msgid ""
+"Father, we could evacuate the villages in the way, no farmer would need to "
+"die."
+msgstr ""
+
+#. [message]: speaker=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3321
+msgid ""
+"You are talking about betraying everything I have stood for my entire life!"
+msgstr ""
+
+#. [message]: speaker=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3325
+msgid "I will have no part in this!"
+msgstr ""
+
+#. [message]: speaker=Sir Cirlar
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3329
+msgid ""
+"Son, please don't do as you plan. The name of our family would be soiled "
+"forever."
+msgstr ""
+
+#. [message]: speaker=Sir Ceawo
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3333
+msgid "I am very sorry father."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3348
+msgid ""
+"I will only take my most experienced units on this mission; the others will "
+"march to and wait for us at the Parthyn ford."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3352
+msgid ""
+"Plainsmen, I need your fastest horses to catch up to my brother and "
+"coordinate with him."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3363
+msgid ""
+"It sounds like we have a plan, (extending hand) to a new era between our "
+"peoples."
+msgstr ""
+
+#. [message]: speaker=Sir Ceawo
+#: An_Orcish_Might/scenarios/04_The_Clash.cfg:3375
+msgid "(hesitantly he grabs the outstretched hand) To a new era."
+msgstr ""
+
+#. [scenario]: id=05_Storming_the_Palace
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:4
+msgid "05 Storming the Palace"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:16
+msgid ""
+"Normally Tragtrad would be pleased, his plan seemed to be working, but "
+"Umaduro has avoided him ever since they crossed the Great River and he has "
+"not said a word to him. His cousin was not alone, many of his orcish "
+"brothers did not seem onboard with his plan, and that despite him only "
+"taking his veterans with him. When he was back and no longer in enemy "
+"territory he would have to fear a challenge to his rule Tragtrad thought "
+"worriedly.\n"
+"            \n"
+"(1/2)"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:22
+msgid ""
+"Crossing many a field, at first, the promise of the clans seemed to hold "
+"yes, marching through the clans' lands, they were unperturbed. Every village "
+"they found along the road was vacant. Until finally their luck turned, only "
+"a few leagues north of Weldyn, and the royal palace. \n"
+"            \n"
+"(2/2)"
+msgstr ""
+
+#. [side]: type=Grand Marshal, id=Heford
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:60
+msgid "Rundars Shadow"
+msgstr ""
+
+#. [side]: type=Grand Marshal, id=Heford2
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:160
+msgid "Adirsus Shadow"
+msgstr ""
+
+#. [side]: type=WOTG_King, id=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:258
+msgid "King Letarg"
+msgstr ""
+
+#. [side]: type=General, id=Heford3
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:313
+msgid "Levan"
+msgstr ""
+
+#. [side]: type=General, id=Heford4
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:444
+msgid "Lyrin"
+msgstr ""
+
+#. [label]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:563
+msgid "Rucity"
+msgstr ""
+
+#. [label]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:567
+msgid "Woodsmagnate"
+msgstr ""
+
+#. [set_menu_item]: id=togglespeach_buttonv1
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:687
+msgid ""
+"click this button to toggle Tragtrads speech after 'forced march' (currently "
+"Tragtrad does not speak)."
+msgstr ""
+
+#. [set_menu_item]: id=togglespeach_buttonv2
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:703
+msgid ""
+"click this button to toggle Tragtrads speech after 'forced march' (currently "
+"Tragtrad does speak)."
+msgstr ""
+
+#. [set_menu_item]: id=Gewaltmarsch
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:720
+msgid "forced march!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:765
+msgid "You there! Don't stop, damn it!"
+msgstr ""
+
+#. [set_menu_item]: id=togglespeachKing_buttonv1
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:780
+msgid ""
+"click this button to toggle the Kings speech every turn (he still moves) "
+"(currently the king does not speak)."
+msgstr ""
+
+#. [set_menu_item]: id=togglespeachKing_buttonv2
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:796
+msgid ""
+"click this button to toggle the Kings speech every turn (he still moves) "
+"(currently the king does speak)."
+msgstr ""
+
+#. [objective]: condition=win
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:818
+msgid ""
+"Storm the palace and capture the king by positioning an Orc/Goblin/Troll "
+"unit next to him."
+msgstr ""
+
+#. [objective]: condition=lose
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:826
+msgid "When he turns up - Death of Manma"
+msgstr ""
+
+#. [note]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:830
+msgid ""
+"Gold does not matter in this scenario, you can not recruit/recall and this "
+"is the last scenario, your units do not cost upkeep."
+msgstr ""
+
+#. [note]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:833
+msgid ""
+"Note that the time/turns works different in this scenario (one turn marks "
+"one hour)."
+msgstr ""
+
+#. [note]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:836
+msgid ""
+"After one day (24 hours/turns) forces loyal to the King will arrive from the "
+"road to the north."
+msgstr ""
+
+#. [note]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:839
+msgid "Proceed carefully many enemies can show up unexpectedly."
+msgstr ""
+
+#. [note]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:842
+msgid ""
+"By right clicking or pressing 'f' you can force your units to march, which "
+"gives them their max movepoints in exchange for 8 hp. This can be done once "
+"per unit at every turn, as long as that unit has more than 8 hp, and if the "
+"unit does not currently have the full movement."
+msgstr ""
+
+#. [note]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:845
+msgid ""
+"Some of the enemies' units wear heavy armor and can thus move only very "
+"slowly. You can see it, when they have an icon on the top right."
+msgstr ""
+
+#. [note]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:854
+msgid ""
+"Tip: In the scenario using leadership is key - Tragtrad can reach Level 4 - "
+"Death is Level 4 - A troll should have a leadership ability"
+msgstr ""
+
+#. [note]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:863
+msgid ""
+"Tip: In the scenario using leadership is key - Tragtrad can reach Level 4 - "
+"A troll should have a leadership ability"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:983
+msgid "Folks, we have arrived; the royal palace is a day’s march to the south."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:987
+msgid ""
+"But we cannot rest now, that King has already assembled a small army. We "
+"will push on immediately, leave no one that stands in our way alive."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1002
+msgid ""
+"ORCS! ORCS! ORCS! ORCS IN MY CAPITAL. Kill them, kill them all, leave none "
+"of those beasts alive!"
+msgstr ""
+
+#. [message]: speaker=Heford
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1006
+msgid "Yes my king, those animals will suffer."
+msgstr ""
+
+#. [message]: speaker=Heford2
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1011
+msgid "The army is to return from Halstead within a day, time is on our side."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1015
+msgid "You useless bastards kill them NOW and don't let them near me!"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1019
+msgid "How exactly do you plan to win this, Tragtrad..."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1023
+msgid ""
+"We just need to be quick, do not rest at all and we can ignore most of them. "
+"I will lead the charge myself!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1027
+msgid ""
+"When we are inside, just decapitate that weak human king, Manma will then "
+"rally them."
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1039
+msgid ""
+"I brought three of my most talented students with me. Use them wisely—they "
+"are very unique!"
+msgstr ""
+
+#. [message]: speaker=Death
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1044
+msgid "Aye, I agreed to follow you Tragtrad, but this seems just suicidal?"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1057
+msgid ""
+"It looks like a difficult battle ahaed, we don't seem to have many units. "
+"Maybe if we'd performed better in the last battle..."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1064
+msgid "I also have some new arrows that might prove useful."
+msgstr ""
+
+#. [effect]: type=pierce
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1075
+msgid "experimental arrow"
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1090
+msgid "And how did you get those, if I might ask?"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1094
+msgid ""
+"Pah, the point is I have them now. It would be dumb not to use them—doesn't "
+"matter who made them!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1108
+msgid ""
+"Boss this hood is not empty as the ones before, shall we really not feast on "
+"the humans? (If you choose to plunder your orcs regain 16hp when destroying "
+"a village - you will however not keep your words to the humans)"
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1110
+msgid ""
+"We should risk our lives, to save some human scum? Bugger that, my orcs will "
+"feast!"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1118
+msgid "My orcs! Feast on the humans, replenish as you can!"
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1122
+msgid ""
+"I should warn you, the king is not well liked, but killing innocent farmers "
+"is not helping our popularity as well, expect strong resistance from the "
+"villagers."
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1127
+msgid "I will keep my word, even if given to a human."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1131
+msgid "Have you learned nothing from Orion? He already betrayed you!"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1135
+msgid ""
+"You are no longer my cousin, Tragtrad. You have no orcish soul, no fighting "
+"spirit, no orcish will!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1168
+msgid "All cleared! I am refreshed!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1231
+msgid "I am hungry... I have been fighting all day!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1235
+msgid ""
+"Some tribes are turning soft, refusing to eat those that speak, calling it a "
+"barbaric old habit. Others say it’s what makes us orcs who we are. In a time "
+"like this, the choice we make will show the world where the Bloodthornes "
+"stand!"
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1237
+msgid ""
+"The old ways are our strength! In this hour, we hold fast and show no "
+"weakness! Feast!"
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1254
+msgid ""
+"True strength is knowing when to change. We will no longer feast on those we "
+"trade with!"
+msgstr ""
+
+#. [message]: speaker=runner
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1286
+msgid "AHHHHH they are eating us!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1473
+msgid "Orcs in my capital! What has Wesnoth come to."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1480
+msgid "Useless bastards, all of you! Kill these beasts!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1487
+msgid "Whoever gives me the head of the big orc will be rewarded richly!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1494
+msgid "My barons are useless, all of them!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1501
+msgid "I AM THE KING I WILL NOT ALLOW ORCS IN WELDYN!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1508
+msgid "Please leave me alone!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1515
+msgid "Once wesnoth was strong, I will be the one to make wesnoth great again!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1522
+msgid ""
+"We have the worst laws, believe me when I say that, the worst laws, but I "
+"will fix them!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1529
+msgid "What's happening is a disgrace!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1536
+msgid ""
+"Nobody has ever done so much in the first year of a kingship as me. Nobody. "
+"Nobody!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1543
+msgid ""
+"To be honest – I'll be honest, I think it is a – I think we are very close "
+"to a complete victory."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1582
+msgid "This Place seems ... I don't know ... magical."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1586
+msgid "I need to check it out!"
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1603
+msgid "There is some kind of dark power here! A magical seal, I will break it."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1607
+msgid "I have searched for something like this for a long time!"
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1611
+msgid "The power it, it is too strong!"
+msgstr ""
+
+#. [unit]: id=wesnoth_lich, type=The_Unspoken
+#. [unit_type]: id=The_Unspoken, race=undead
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1616
+#: An_Orcish_Might/units/undead/The_Unspoken.cfg:4
+msgid "The Unspoken"
+msgstr ""
+
+#. [message]: speaker=wesnoth_lich
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1626
+msgid ""
+"Two years ago my husband sealed me in this hole, I will not let Wesnoth have "
+"peace! Get out of my way! Lyrin, Levan armies of Wesnoth I am coming for you!"
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1631
+msgid "No, no, no she is too strong for me!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1672
+msgid "Are you out of your mind?! You have let her out?!"
+msgstr ""
+
+#. [message]: speaker=Rider Leader
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1796
+msgid ""
+"The new baroness of Waitanende wants to pay homage to the King and has sent "
+"gifts from the great barony of Waitanende."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1800
+msgid "So the old gobermouch baron is finally dead?"
+msgstr ""
+
+#. [message]: speaker=Rider Leader
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1805
+msgid ""
+"Yes, sadly, he died only two weeks ago after a short illness, his oldest "
+"daughter has inherited his the barony of Waitanende, since no son has "
+"survived to adulthood. She wants to apologise for her father not coming to "
+"Halstead as ordered, it has taken her a while to get the estate in order, "
+"but now she wants to pay homage and has sent us ahead."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1809
+msgid ""
+"If the baroness wants to pay homage to me, you can start by squashing these "
+"orcs. If you do so then you will be richly rewarded. Though I doubt men from "
+"Waitanende can kill anything, especially orcs."
+msgstr ""
+
+#. [message]: speaker=Rider Leader
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1814
+msgid "We shall rescue the King, men!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1818
+msgid "Not 'rescue'. I am the king; you have to follow my orders!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1822
+msgid ""
+"Rider, we want to replace this king with a better one, don't stand in my "
+"way, or I will have to cut you down!"
+msgstr ""
+
+#. [message]: speaker=Rider Leader
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1827
+msgid ""
+"You want to replace the king of Wesnoth, orc? A queer task if I might say "
+"so. The men of Waitanende will fight for Wesnoth!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1851
+msgid ""
+"You really managed to kill one of those savages? Didn't expect that, ha. Not "
+"from - Waitanende. It's hard to believe."
+msgstr ""
+
+#. [message]: speaker=turnRiders
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1865
+msgid ""
+"This king does not respect the honor of the men of Waitanende, I will not be "
+"insulted by the offspring of some dark magician."
+msgstr ""
+
+#. [message]: role=turnRiders
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1869
+msgid ""
+"The baroness has made all of us swear an oath to always protect Wesnoth. "
+"That is what is worth to die for, not the upstart queen’s son!"
+msgstr ""
+
+#. [message]: role=turnRiders
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1879
+msgid ""
+"To protect Wesnoth is to rid Wesnoth of its dark magic king! Men slaughter "
+"whoever stands in our way!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1883
+msgid ""
+"I think they will fight each other, get out of their way and they'll "
+"basically help us."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1887
+msgid ""
+"You dare to raise your sword against your king! Your life is forfeit traitor!"
+msgstr ""
+
+#. [message]: role=turnRiders
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1906
+msgid ""
+"Orc you have not butchered any villagers, I cannot believe I am saying this, "
+"but is it yes you fought side by side with the great grandson of Haldric IV "
+"- is he with you?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1910
+msgid ""
+"It is yes, my sword and that of Manma have drunken from the same blood, we "
+"fight the same foe for the same goal. He will be with us in the end."
+msgstr ""
+
+#. [message]: role=turnRiders
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1914
+msgid ""
+"Then I will fight for the descendants of the founder Haldric. That "
+"illegitimate son of darkness shall die by my own sword!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1925
+msgid ""
+"You...You...You fight for the orcs? Against Wesnoth! Your life is forfeit "
+"traitor!"
+msgstr ""
+
+#. [message]: speaker=east talker
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:1992
+msgid "The people of Woodsmagnate will always fight orcs!"
+msgstr ""
+
+#. [message]: speaker=west talker
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2066
+msgid "The people of Rucity will always fight orcs!"
+msgstr ""
+
+#. [message]: speaker=north_helper
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2257
+msgid ""
+"Reinforcements from the family of Garardinans from Tath have arrived to "
+"rescue the King. His lordliness's daughter is with us to form a marriage "
+"pact."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2261
+msgid ""
+"This king needs not be rescued by the One Eyed Baron of Tath, this king is "
+"able to fight his own battles and will not marry woman that are far beneath "
+"his station; only two generations from peasants."
+msgstr ""
+
+#. [message]: speaker=north_helper
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2265
+msgid "As you say milord, soldiers Position."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2529
+msgid ""
+"The barons of Parthyn have come to protect Wesnoth and rid it of all its "
+"evil! His royal cousin begs me to help the king."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2533
+msgid "I've always known my cousin’s barony to be among my most loyal."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2537
+msgid "As you say milord, soldiers position."
+msgstr ""
+
+#. [message]: id=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2547
+msgid ""
+"This traitorous bastard, Tragtrad you should have killed him, not let him "
+"flee."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2551
+msgid "Let us hope he is in fact a traitor."
+msgstr ""
+
+#. [message]: speaker=south_helper
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2830
+msgid ""
+"Reinforcements from the Bay of Pearls have arrived to rescue the King. The "
+"barons are leading the main army here, to save the king."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2834
+msgid ""
+"I have not ordered that! Who dares to command my army? I gave the order to "
+"lay siege to Elensefar!"
+msgstr ""
+
+#. [message]: speaker=south_helper
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2838
+msgid ""
+"As you say milord, a rider will be sent to dispatch the orders, shall there "
+"be punishment for the ringleaders?"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2842
+msgid ""
+"Yes good point, I believe the responsible barons should fight the orcs here "
+"with their bare hands. But tell the army to come here and protect Weldyn!"
+msgstr ""
+
+#. [message]: speaker=south_helper
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2846
+msgid "As you say milord."
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2969
+msgid ""
+"Men of Wesnoth! The true king, great grandson of Haldric IV, my brother, has "
+"returned to lead Wesnoth into a golden age! Bow to the true King Manma!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2973
+msgid ""
+"Another traitor? I am surrounded by traitors! What have I done to deserve "
+"this."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2977
+msgid ""
+"Letarg, you are the son of an undead magi and an ambitious commoner, every "
+"second you sit in the rightful place of the sons of Haldric as myself is a "
+"second Wesnoth suffers. This will end today! I promise!"
+msgstr ""
+
+#. [message]: speaker=cccspea
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:2989
+msgid ""
+"You are only another ambitious lord, don't pretend you are doing this for "
+"Wesnoth."
+msgstr ""
+
+#. [message]: speaker=talkersecond
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3010
+msgid ""
+"You fight on the same side as orcs, against the human kingdom, orcs that "
+"plunder our farmers, you stand against everything wesnoth was build on, you "
+"should be ashamed of yourself!"
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3021
+msgid "Die! Do not stand in the way of the true king!"
+msgstr ""
+
+#. [message]: speaker=Heford2
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3039
+msgid "You are a traitor to Wesnoth!"
+msgstr ""
+
+#. [message]: speaker=Manherr
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3043
+msgid "I fight for Wesnoth!"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3073
+msgid ""
+"Nooooooo, brother, you will be avenged! Letarg, prepare for your death! You "
+"are clinging to my throne unlawfully!"
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3129
+msgid ""
+"Wow folks, almost no resistance on the way here, seems like we are here."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3134
+msgid ""
+"More orcs? No, how! How deep has Wesnoth fallen as to roaming savages "
+"threating the rightful king!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3139
+msgid "Is that you Fal Khag?!"
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3144
+msgid ""
+"Tragtrad? Never thought I'd meet you here, still I won't mind killing you at "
+"all. Sorta unfinished business."
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3188
+msgid "Alright kill the orcish princeling and then the human princeling."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3209
+msgid "Tragtrad, I ..."
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3219
+msgid "Fal Khag, you rightfully sit the bloodthorn throne, I will follow you"
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3230
+msgid "Ha! You see Tragtrad, even you closest cousin abandons you!"
+msgstr ""
+
+#. [message]: speaker=betrayer
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3250
+msgid "Yes, hahaha. Kill humans, not help them!"
+msgstr ""
+
+#. [message]: speaker=betrayer
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3254
+msgid ""
+"Tragtrad you are not a orc, go taste my blade, I fight for the yes "
+"bloodthorn boss!"
+msgstr ""
+
+#. [message]: speaker=Fal Khag
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3270
+msgid "Ha! See Tragtrad, even you own grunts abandon you!"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3293
+msgid "They are so close, how? how? how? blow up the bridges, NOW!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3310
+msgid "Seems like some of those explosions have failed, boss. HE HE HE HE HE"
+msgstr ""
+
+#. [message]: speaker=wesnoth_lich
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3331
+msgid "Wesnoth! Aaargh I cannot... no..."
+msgstr ""
+
+#. [message]: speaker=wesnoth_lich
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3342
+msgid "My prison."
+msgstr ""
+
+#. [message]: speaker=Marast the lost
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3362
+msgid ""
+"Zzzzzzzzzz, notzzzzzzz gooodzzzzzzzzz. Nozzzzzz, zzzzzztrange plazzzze..."
+msgstr ""
+
+#. [message]: speaker=Marast the lost
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3373
+msgid "Thizzzz izzzz your fight. Not minezzzzz."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3395
+msgid "For the power of the new era, an orc has to defeat the king."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3412
+msgid ""
+"Not even a full day had passed before the first advance elements of "
+"Wesnoth’s main army began to arrive..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3419
+msgid "Another advance element of the main Wesnoth army arrived..."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3475
+msgid "What! No! How! How can these stupid beasts be winning against me?"
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3492
+msgid ""
+"MY GENERALS NO! How can they lose this war for me! Why am I surrounded by "
+"idiots? Everything is turning against me!"
+msgstr ""
+
+#. [message]: speaker=wesnoth_lich
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3504
+msgid ""
+"Dream not I would go, I curse you! For 60 long years there shall not be "
+"peace in my land of Wesnoth!"
+msgstr ""
+
+#. [message]: speaker=Heford
+#. [message]: speaker=Heford2
+#. [message]: speaker=Heford3
+#. [message]: speaker=Heford4
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3513
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3527
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3542
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3557
+msgid "NOOOO! I should never have betrayed Wesnoth. Letarg you will die!"
+msgstr ""
+
+#. [message]: speaker=Heford4
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3592
+msgid ""
+"Noo! How could I have lost against those stupid brutes! I should have never "
+"betrayed Adirsu!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3596
+msgid "Alright, one done, keep going!"
+msgstr ""
+
+#. [message]: speaker=Heford3
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3608
+msgid "I die with honor for my true queen!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3612
+msgid "Who's he talking about?"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3628
+msgid "Tragtrad, please. Don't betray your race..."
+msgstr ""
+
+#. [message]: speaker=King
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3680
+msgid ""
+"No, No, No. Leave me alone. I am surrounded by idiots, fools, fools "
+"everywhere."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3684
+msgid "Alright shut this guy up now. Manma!"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3694
+msgid "(Takes the crown)"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3698
+msgid ""
+"(whispering to Letarg) I should let my blade drink your blood for the "
+"incompetence with which you dragged Wesnoth down, for all the good men who "
+"died needlessly for you, for my brother who gave his life for a better "
+"future for Wesnoth! But I need you to lose all legitimacy, so you better "
+"start kneeling now!"
+msgstr ""
+
+#. [unit]: type=Cavalryman, id=Messenger_Clans
+#. [unit]: type=Cavalryman, id=Messenger_Waitanende
+#. [unit]: type=Cavalryman, id=Messenger_Army
+#. [unit]: type=Cavalryman, id=Messenger_Elensefar
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3709
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3727
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3745
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3763
+msgid "Messenger"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3774
+msgid ""
+"Guards, thow the usurper in the dungeons, I will deal with him when I need "
+"to!"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3792
+msgid ""
+"The clans wait at the outskirts of Weldyn for news, tell them Wesnoth has a "
+"legitimate ruler once more. And tell them to ready themselves for what I "
+"told them beforehand!"
+msgstr ""
+
+#. [message]: speaker=Messenger_Clans
+#. [message]: speaker=Messenger_Waitanende
+#. [message]: speaker=Messenger_Army
+#. [message]: speaker=Messenger_Elensefar
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3796
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3812
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3828
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3844
+msgid "Yes my king."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3808
+msgid ""
+"The barons need to know of the new ruler, send north to Tarth, notify "
+"Dan'Tonk, ride to Waitanende and tell the coast-barons. I want all barons in "
+"Wesnoth to come to Weldyn and pay homage."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3824
+msgid ""
+"The army is mobilised, it must have orders, otherwise it will turn to "
+"savagery, ride towards the army exchange the generals with trustworthy man "
+"of Parthyn in my name, they shall gather at the Ford of Abez, for my brother."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3840
+msgid ""
+"Humans can not war amongst themselves. Send to Elensefar and tell the "
+"council there is need for a new treaty between Elensefar and Wesnoth."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3856
+msgid ""
+"The blood of my great grandfather, Haldric IV now sits in the Wesnoth throne "
+"again. The time has come to free Wesnoth from its insurrection of the "
+"commoner’s queen and her illegitimate offspring. For the next five days "
+"there will be a holiday for the free Wesnoth Army!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3860
+msgid "It is time for a new age between the orcs and humans!"
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3864
+msgid "That is correct. A new age. One where we can sleep in peace."
+msgstr ""
+
+#. [message]: speaker=Manma
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3868
+msgid ""
+"Men of Wesnoth, march against these foreign invaders! For every orchead you "
+"bring me I will reward you with 100 gold pieces!"
+msgstr ""
+
+#. [message]: speaker=Umaduro
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3872
+msgid "Tragtrad, why?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3876
+msgid "No, no, NO!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/scenarios/05_Palace_Storming.cfg:3883
+msgid ""
+"(Silently to himself) First Orion, then Volk, now Manma. I only wanted peace "
+"for my people, but now I've doomed them. I should never have trusted the "
+"humans."
+msgstr ""
+
+#. [scenario]: id=06_Epilogue
+#: An_Orcish_Might/scenarios/06_Epilogue.cfg:4
+msgid "Ân Orcish Might — Epilogue"
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/06_Epilogue.cfg:14
+msgid ""
+"And that was the dramatic story of Tragtrad and his tribe of Bloodthorns."
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/06_Epilogue.cfg:17
+msgid ""
+"The rests of Tragtrads and Fal Khag's orcs, the proud tribe of the "
+"Bloodthorns, fled to their homeland, chased down by the fastest elements of "
+"the army of Wesnoth. During their long flight they came across Parthyn, now "
+"unprotected, for Manherr had taken most of the guard with him. The fleeing "
+"told those orcs waiting for Tragtrad what had happened and there was no "
+"compassion from the half-dead orcs, they killed all they saw and left no "
+"woman, child or old one alive. The horse lords caught them, when they were "
+"trying to cross the Ford, the same one they had already tried to cross a "
+"year before. They were worn down to almost the last orc in the water. The "
+"task of rebuilding the destroyed and depopulated Parthyn was given to a "
+"local family of farmers, that owned a lot of farmland. The Keshars..."
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/06_Epilogue.cfg:20
+msgid ""
+"You wonder what came of the new King Manma? Sad to say despite his dramatic "
+"betrayal of Tragtrad’s horde, he never quite got rid of his association with "
+"the orcs and lost the throne (and his head) after only 4 years. Which is "
+"pretty long for the wesnothian kings during its first dark Age. He had tried "
+"to buy his lords loyalty with the unspoken queens cursed gold. Some say that "
+"was what brought him down, but most likly he was just never able to "
+"establish himself as supreme over the barons. The king after him immediately "
+"revoked the barony of Parthyn from Manmas' family (and thus also ending the "
+"dynasty of Haldric I, well at least the male line...) The rundown barony of "
+"Parthyn was given to the Keshars as to continue rebuilding Parthyn."
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/06_Epilogue.cfg:23
+msgid "But that's a story for another time."
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/06_Epilogue.cfg:26
+msgid ""
+"Tragtrad managed to flee as did Fal Khag, the former rivals grew close "
+"whilst fleeing back to their homeland, or at least that's what I would say "
+"if they didn't fight a ritual duel to the bitter end. Who won? Well, it was "
+"close but, in the end, there was only one winner, Tragtrad."
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/06_Epilogue.cfg:29
+msgid ""
+"And that is the end of his story, of how even an orc could decide the king "
+"of wesnoth, my dear Konrad."
+msgstr ""
+
+#. [part]
+#: An_Orcish_Might/scenarios/06_Epilogue.cfg:33
+msgid "'Delfador, was Manma wrong for betraying the orcs?'"
+msgstr ""
+
+#. [unit_type]: id=Wisp, race=monster, gender=female
+#: An_Orcish_Might/units/fake/Wisp.cfg:5
+msgid "Wisp"
+msgstr ""
+
+#. [unit_type]: id=Wisp, race=monster, gender=female
+#: An_Orcish_Might/units/fake/Wisp.cfg:19
+msgid ""
+"A wisp is a flickering light with magical capabilities. These mysterious "
+"entities roam the caverns of Blackqvasten, usually wandering alone in the "
+"endless darkness. Generally, wisps are not dangerous, even to beings that do "
+"not inhabit the depths, although they are known to produce magic of "
+"extraordinary power when gathered in large enough numbers. Legends say that "
+"the Wiss are nothing more than lost souls, tortured by Shassagoth to wander "
+"through the depths on unending journies to find peace. "
+msgstr ""
+
+#. [attack]: type=arcane
+#: An_Orcish_Might/units/fake/Wisp.cfg:26
+#: An_Orcish_Might/units/fake/Wisp_Greater.cfg:26
+msgid "orb"
+msgstr ""
+
+#. [unit_type]: id=Greater Wisp, race=monster, gender=female
+#: An_Orcish_Might/units/fake/Wisp_Greater.cfg:5
+msgid "Greater Wisp"
+msgstr ""
+
+#. [unit_type]: id=Greater Wisp, race=monster, gender=female
+#: An_Orcish_Might/units/fake/Wisp_Greater.cfg:20
+msgid ""
+"Sometimes, one may find Wisps gathered in clusters in the depths. In their "
+"midst, there appear a few larger wisps that are stronger than their smaller "
+"kin. These Greater Wisps have the potential to cast lower forms of magic and "
+"are more durable than the smaller Wisps. It is unknown how these Greater "
+"Wisps came to be, but the strange light that they emanate attracts nearby "
+"wisps, whereupon more Greater Wisps will eventually be found when the Wisps "
+"begin to cluster. "
+msgstr ""
+
+#. [unit_type]: id=Rogue Mage, race=human
+#: An_Orcish_Might/units/humans/outlaw/Rogue_Mage.cfg:6
+msgid "Rogue Mage"
+msgstr ""
+
+#. [unit_type]: id=Rogue Mage, race=human
+#: An_Orcish_Might/units/humans/outlaw/Rogue_Mage.cfg:18
+msgid ""
+"Some mages are thrown out of the mages’ guild for attempting to practice "
+"forbidden arts. Now completely outside the law, these rogue mages do "
+"whatever is necessary to support their study of black magic. Although not as "
+"skilled as mages with more formal training, their magic can be quite lethal, "
+"while their banditry has resulted in moderate skill with the short sword."
+msgstr ""
+
+#. [unit_type]: id=Shadow Lord, race=human
+#: An_Orcish_Might/units/humans/outlaw/Shadow_Lord.cfg:5
+msgid "Shadow Lord"
+msgstr ""
+
+#. [unit_type]: id=Shadow Lord, race=human
+#: An_Orcish_Might/units/humans/outlaw/Shadow_Lord.cfg:21
+msgid ""
+"Few humans fathom the secrets of light and dark magic and retain their "
+"sanity. Those that can master that balance become Shadow Lords, fully "
+"existing neither in the world of light nor the world of darkness. No longer "
+"needing physical weapons, they are fearsome to both their enemies and those "
+"they lord over."
+msgstr ""
+
+#. [attack]: type=blade
+#: An_Orcish_Might/units/humans/outlaw/Shadow_Lord.cfg:33
+msgid "astral blade"
+msgstr ""
+
+#. [attack]: type=cold
+#: An_Orcish_Might/units/humans/outlaw/Shadow_Lord.cfg:44
+msgid "shadow bolt"
+msgstr ""
+
+#. [attack]: type=impact
+#: An_Orcish_Might/units/humans/outlaw/Shadow_Lord.cfg:56
+msgid "shadow blast"
+msgstr ""
+
+#. [unit_type]: id=Shadow Mage, race=human
+#: An_Orcish_Might/units/humans/outlaw/Shadow_Mage.cfg:5
+msgid "Shadow Mage"
+msgstr ""
+
+#. [unit_type]: id=Shadow Mage, race=human
+#: An_Orcish_Might/units/humans/outlaw/Shadow_Mage.cfg:20
+msgid ""
+"Years of violence and brutality to support the study of forbidden magical "
+"arts have turned the shadow mages into feared fighters. Now completely "
+"enthralled with power, they have been known to command small followings of "
+"henchmen. They are outmatched in direct magical combat with their magic-"
+"using peers, instead channeling their energies into devastating melee "
+"attacks. Despite their offensive power, the corruption in their souls has "
+"begun to adversely affect their health."
+msgstr ""
+
+#. [unit_type]: id=Shady Mage, race=human, gender=male,female
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:5
+msgid "Shady Mage"
+msgstr ""
+
+#. [unit_type]: id=Shady Mage, race=human, gender=male,female
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:20
+msgid ""
+"Once Volk was a respected courtwizard, giving wise counsel and helping where "
+"he can, but something has changed him, or maybe that something has always "
+"been there and it only showed recently, who knows? Anyhow this man is not of "
+"pure soul as one would hope from a user of magic!"
+msgstr ""
+
+#. [special_note]
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:22
+msgid ""
+"Compared to other mages, Shady Mages have a higher resistance to ‘arcane’ "
+"attacks. HE also has no upkeep"
+msgstr ""
+
+#. [attack]: type=impact
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:47
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=arcane
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:56
+msgid "lightbeam"
+msgstr ""
+
+#. [attack]: type=arcane
+#. [effect]: type=arcane
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:69
+#: An_Orcish_Might/units/undead/The_Unspoken.cfg:65
+#: An_Orcish_Might/utils/reusedEvents.cfg:359
+msgid "shadow wave"
+msgstr ""
+
+#. [female]: gender=female
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:143
+msgid "female^White Mage"
+msgstr ""
+
+#. [advancement]: id=turntodark
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:199
+msgid "Volk will loose more of his humanity, but become stronger."
+msgstr ""
+
+#. [advancement]: id=turntolight
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:231
+msgid "Volk will try to see the advantages of the good side."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:271
+msgid "The mage is dead."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/units/humans/outlaw/Shady_Mage.cfg:275
+msgid "You cannot kill me!"
+msgstr ""
+
+#. [unit_type]: id=Clan Lord, race=human
+#: An_Orcish_Might/units/humans/wesnoth/Clan_Lord.cfg:5
+msgid "Clan Lord"
+msgstr ""
+
+#. [unit_type]: id=Clan Lord, race=human
+#. [unit_type]: id=Expedition General, race=human
+#: An_Orcish_Might/units/humans/wesnoth/Clan_Lord.cfg:28
+#: An_Orcish_Might/units/humans/wesnoth/Expedition_General.cfg:27
+msgid ""
+"The greatest of the men of the plains, Horse Lords are heads of their houses "
+"and are respected by all, friend or foe. These lords lead by example, "
+"dominating the battlefield from the head of a cavalry charge."
+msgstr ""
+
+#. [unit_type]: id=Expedition Captain, race=human
+#: An_Orcish_Might/units/humans/wesnoth/Expedition_Captain.cfg:4
+msgid "Expedition Captain"
+msgstr ""
+
+#. [unit_type]: id=Expedition Captain, race=human
+#: An_Orcish_Might/units/humans/wesnoth/Expedition_Captain.cfg:26
+msgid ""
+"From early age, the nobles of the plains train vigorously in both combat and "
+"governance, preparing to someday become captains of the Clan. Though young "
+"and brash, these fighters have the potential to become great warriors one "
+"day."
+msgstr ""
+
+#. [unit_type]: id=Expedition General, race=human
+#: An_Orcish_Might/units/humans/wesnoth/Expedition_General.cfg:4
+msgid "Expedition General"
+msgstr ""
+
+#. [unit_type]: id=Banneret, race=human
+#: An_Orcish_Might/units/humans/wesnoth/Human_Banneret.cfg:5
+msgid "Banneret"
+msgstr ""
+
+#. [unit_type]: id=Banneret, race=human
+#: An_Orcish_Might/units/humans/wesnoth/Human_Banneret.cfg:20
+msgid ""
+"The few lancers who survive for long enough invariably find themselves "
+"commanding companies of their own. Still clad in minimal armor, they ride "
+"with even greater speed, charging into battle and leading from the forefront "
+"of any conflict."
+msgstr ""
+
+#. [unit_type]: id=citizen, race=human, gender=male,female
+#: An_Orcish_Might/units/humans/wesnoth/Human_Townsfolk.cfg:5
+msgid "Citizen"
+msgstr ""
+
+#. [unit_type]: id=citizen, race=human, gender=male,female
+#: An_Orcish_Might/units/humans/wesnoth/Human_Townsfolk.cfg:19
+msgid ""
+"Townsfolk are city-dwellers who try to make their fortune in a non-violent "
+"manner, be they traders, craftsmen, or servants of a noble house. They "
+"almost universally lack the strength that comes from a life of physical "
+"labour, and thus are not conscripted as often as peasants."
+msgstr ""
+
+#. [unit_type]: id=Mounted General, race=human
+#: An_Orcish_Might/units/humans/wesnoth/Mounted_General.cfg:5
+msgid "Mounted General"
+msgstr ""
+
+#. [unit_type]: id=Mounted General, race=human
+#: An_Orcish_Might/units/humans/wesnoth/Mounted_General.cfg:28
+msgid ""
+"Switching seamlessly between lance and mace, mounted generals boast "
+"tremendous skill in individual combat and can hold their own against even "
+"the most powerful opposition. They are masters of their mounts, able to "
+"cover great distances quickly on their patrols, and have keen eyes for "
+"detecting and eliminating all manner of perilous dangers. Their greatest "
+"strength, however, lies in their ability to inspire great courage in their "
+"men, who fight fearlessly and tenaciously under their command."
+msgstr ""
+
+#. [unit_type]: id=WOTG_King, race=human
+#: An_Orcish_Might/units/humans/wesnoth/Wesnoth_King.cfg:5
+msgid "King"
+msgstr ""
+
+#. [unit_type]: id=WOTG_King, race=human
+#: An_Orcish_Might/units/humans/wesnoth/Wesnoth_King.cfg:31
+msgid "This is a King."
+msgstr ""
+
+#. [attack]: type=blade
+#: An_Orcish_Might/units/humans/wesnoth/Wesnoth_King.cfg:37
+msgid "sword"
+msgstr ""
+
+#. [attack]: type=pierce
+#: An_Orcish_Might/units/humans/wesnoth/Wesnoth_King.cfg:46
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=Merman Soldier King, race=merman
+#: An_Orcish_Might/units/merfolk/Soldier_King.cfg:5
+msgid "Soldier King"
+msgstr ""
+
+#. [unit_type]: id=Merman Soldier King, race=merman
+#: An_Orcish_Might/units/merfolk/Soldier_King.cfg:21
+msgid ""
+"A king who is skilled at combat commands great respect — especially among "
+"soldiers. His strength allows him to wield powerful weapons and move "
+"quickly, even with heavy armor. His leadership abilities inspire his troops."
+msgstr ""
+
+#. [unit_type]: id=Merman Warrior King, race=merman
+#: An_Orcish_Might/units/merfolk/Warrior_King.cfg:5
+msgid "Warrior King"
+msgstr ""
+
+#. [unit_type]: id=Merman Warrior King, race=merman
+#: An_Orcish_Might/units/merfolk/Warrior_King.cfg:21
+msgid ""
+"Warrior kings often become legendary in their own time. Their skill and "
+"strength allows them to be truly formidable in battle. They are also fast "
+"despite their heavy armor. Even skilled soldiers look upon them with awe."
+msgstr ""
+
+#. [unit_type]: id=Bloodthorn_Despot, race=orc
+#: An_Orcish_Might/units/orc/Bloodthorn_Despot.cfg:4
+msgid "Orcish Despot"
+msgstr ""
+
+#. [unit_type]: id=Bloodthorn_Despot, race=orc
+#: An_Orcish_Might/units/orc/Bloodthorn_Despot.cfg:20
+msgid ""
+"Art credit goes to The Golden Age / The_Gnat / Forestdragon\n"
+"    \n"
+"TODO"
+msgstr ""
+
+#. [attack]: type=blade
+#: An_Orcish_Might/units/orc/Bloodthorn_Despot.cfg:41
+#: An_Orcish_Might/units/orc/Orcish_Heavy.cfg:25
+msgid "greatsword"
+msgstr ""
+
+#. [attack]: type=pierce
+#: An_Orcish_Might/units/orc/Bloodthorn_Despot.cfg:50
+msgid "crossbow"
+msgstr ""
+
+#. [unit_type]: id=Bloodthorn Orcish Leader
+#: An_Orcish_Might/units/orc/Bloodthorn_Leaders.cfg:9
+msgid ""
+"The Bloodthorns are a clan born of the first spilling of blood. They were "
+"among the first to circle the hearth mountains from the north after the "
+"landing, they are a smaller clan compared to the Whitefangs to the south, "
+"these orcs have never forgotten the hardship given to them by their enemies."
+msgstr ""
+
+#. [unit_type]: id=Bloodthorn Orcish Ruler
+#: An_Orcish_Might/units/orc/Bloodthorn_Leaders.cfg:21
+msgid ""
+"When grunts believe, they should lead others, Bloodthorns take of all "
+"clothes the have and let themselves be cut by all plants that are in their "
+"harsh environment, afterwards they are forced to live in nature of what they "
+"can feed of with their bare hands. The orcs believe those who survive this "
+"ordeal are sanctioned by their cruel gods."
+msgstr ""
+
+#. [unit_type]: id=Bloodthorn Orcish Sovereign
+#: An_Orcish_Might/units/orc/Bloodthorn_Leaders.cfg:33
+msgid ""
+"Of all the Bloodthornes one is the most famous. This is his story: \n"
+"\n"
+"    Through ice and endless, blinding snow,\n"
+"    Karzahn led where few would go.\n"
+"    The Great March gnawed with hunger’s teeth,\n"
+"    'Beyond the peaks, a feast lies beneath.''\n"
+"\n"
+"Yet some say Karzahn lied about the meat.\n"
+"\n"
+"    A hopeful band they came upon,\n"
+"    'Let’s feast, unite, and journey on.'\n"
+"    But in the sap of poisoned bane,\n"
+"    He wove a chain of death and pain.\n"
+"\n"
+"Yet some say Karzahn took orcs as meat.\n"
+"\n"
+"    Through frosted nights and starving cries,\n"
+"    The tribe grew thin, their hope denied.\n"
+"    'Among us lies the food we need,'\n"
+"    Karzahn declared with chilling greed.\n"
+"\n"
+"Yet some say Karzahn planted the meat \n"
+"\n"
+"    When strength gave out, and death drew near,\n"
+"    Karzahn rose, unchained by fear.\n"
+"    With crimson blade, he claimed his test,\n"
+"    But left the fight with one arm, no rest.\n"
+"\n"
+"Yet some say Karzahn craved the meat.\n"
+"\n"
+"    At last, they found the valley's green,\n"
+"    Where power crowned him, cold, serene.\n"
+"    'By flesh and blood, this throne I own!'\n"
+"    He roared, his foes were stripped to bone.\n"
+"    \n"
+"Yet some say Karzahn only worshipped the meat.\n"
+"    \n"
+"    Thus this is the story of the first orc to ever sit the Bloodthorn "
+"throne."
+msgstr ""
+
+#. [unit_type]: id=Orcish Spear, race=orc
+#: An_Orcish_Might/units/orc/Bloodthorn_Spear.cfg:4
+msgid "Orcish Spear"
+msgstr ""
+
+#. [unit_type]: id=Orcish Spear, race=orc
+#: An_Orcish_Might/units/orc/Bloodthorn_Spear.cfg:16
+msgid ""
+"While most orcs favor heavy blades plundered from their many enemies, some "
+"true orcs in the Bloodthorn clans choose spears, painstakingly crafted by "
+"their weakly halfkin, as their weapons of choice. Armed with nothing else, "
+"they are quite proficient at using their javlin-like weapons for throwing. "
+"With these deadly pikes, any foe can be struck down, particularly in hilly "
+"terrain, where these orcs feel most at home. They sacrifice armor for "
+"mobility, enhancing their agility and effectiveness in their rugged homeland."
+msgstr ""
+
+#. [attack]: type=pierce
+#: An_Orcish_Might/units/orc/Bloodthorn_Spear.cfg:23
+#: An_Orcish_Might/units/orc/Orcish_Bloodfury.cfg:31
+#: An_Orcish_Might/units/orc/Orcish_Trailblazer.cfg:30
+msgid "long spear"
+msgstr ""
+
+#. [attack]: type=pierce
+#: An_Orcish_Might/units/orc/Bloodthorn_Spear.cfg:47
+#: An_Orcish_Might/units/orc/Orcish_Bloodfury.cfg:61
+#: An_Orcish_Might/units/orc/Orcish_Trailblazer.cfg:51
+msgid "throwing spear"
+msgstr ""
+
+#. [unit_type]: id=Orcish Bloodfury, race=orc
+#: An_Orcish_Might/units/orc/Orcish_Bloodfury.cfg:4
+msgid "Orcish Bloodfury"
+msgstr ""
+
+#. [unit_type]: id=Orcish Bloodfury, race=orc
+#: An_Orcish_Might/units/orc/Orcish_Bloodfury.cfg:18
+msgid ""
+"Art credit goes to The_Gnat.\n"
+"    \n"
+"The weapons these fighters bring to the field are the most sophisticated the "
+"orcish race can produce. Their long halberds allow them to strike any enemy "
+"first. Adaptable as ever, these orcs have also mastered the art of throwing "
+"axes with such force that they can decapitate most ordinary men. Yet, it is "
+"not only their halberds that are special. Veterans, like the orcish axemen, "
+"often use gear taken from their enemies. In this case, the dwarves' steel "
+"gloves inscribed with dwarvish runes make a strike with these gloves as "
+"deadly as one with an axe."
+msgstr ""
+
+#. [attack]: type=blade
+#: An_Orcish_Might/units/orc/Orcish_Bloodfury.cfg:43
+#: An_Orcish_Might/units/orc/Orcish_Trailblazer.cfg:42
+msgid "axe"
+msgstr ""
+
+#. [attack]: type=cold
+#: An_Orcish_Might/units/orc/Orcish_Bloodfury.cfg:52
+msgid "steelfist"
+msgstr ""
+
+#. [unit_type]: id=Orcish Death, race=orc
+#: An_Orcish_Might/units/orc/Orcish_Death.cfg:4
+msgid "Orcish Death"
+msgstr ""
+
+#. [unit_type]: id=Orcish Death, race=orc
+#: An_Orcish_Might/units/orc/Orcish_Death.cfg:21
+msgid ""
+"The childhood of this orc must have been extreme. As an adult, the orc, that "
+"only ever calls himself 'Death', makes any man, elf and orc uncomfortable, "
+"when in the same room for too long, his secrets will probably die with him."
+msgstr ""
+
+#. [trait]: id=agile
+#: An_Orcish_Might/units/orc/Orcish_Death.cfg:28
+msgid ""
+"Attacking units have 30% lower chance to hit. Agile is the strongest trait, "
+"only very select units have this strength. Units with the agile trait often "
+"are nearly impossible to kill, which is be important to consider when "
+"deploying your forces."
+msgstr ""
+
+#. [attack]: type=pierce
+#: An_Orcish_Might/units/orc/Orcish_Death.cfg:36
+#: An_Orcish_Might/units/orc/Orcish_Death.cfg:56
+msgid "knives"
+msgstr ""
+
+#. [unit_type]: id=Orcish Demolisher, race=orc
+#: An_Orcish_Might/units/orc/Orcish_Demolisher.cfg:4
+msgid "Orcish Demolisher"
+msgstr ""
+
+#. [unit_type]: id=Orcish Demolisher, race=orc
+#: An_Orcish_Might/units/orc/Orcish_Demolisher.cfg:18
+msgid ""
+"Art credit goes to doofus-01.\n"
+"    \n"
+"The orcish Demolisher is an opponent who strikes fear into any enemy's "
+"heart. First, he uses a chain to hinder his foe's movement, then he wields "
+"his hammer with such force that no one can withstand him. Sometimes a "
+"warrior goes back on their used to weapon and chooses a hammer. Yet his "
+"chain is a weapon of special ritual importance, the goblin that crafts such "
+"a weapon, imprints on the blade by spilling his own blood on the link it "
+"believes breaks most likely."
+msgstr ""
+
+#. [attack]: type=impact
+#: An_Orcish_Might/units/orc/Orcish_Demolisher.cfg:24
+msgid "hammer"
+msgstr ""
+
+#. [attack]: type=impact
+#: An_Orcish_Might/units/orc/Orcish_Demolisher.cfg:34
+msgid "chains"
+msgstr ""
+
+#. [unit_type]: id=Heavy Orc, race=orc
+#: An_Orcish_Might/units/orc/Orcish_Heavy.cfg:4
+msgid "Heavy Orc"
+msgstr ""
+
+#. [unit_type]: id=Heavy Orc, race=orc
+#: An_Orcish_Might/units/orc/Orcish_Heavy.cfg:16
+msgid ""
+"Art credit goes to SFault.\n"
+"    \n"
+"Each warrior has a specific role to play on the battlefield, and the heavy "
+"orcs, as they are simply called by their enemies, play their role "
+"masterfully. They are very accurate with just one blow, but this one blow is "
+"extremely powerful. It is strong enough to decapitate any elf, human, dwarf "
+"or orc. This orc uses all his strength at once for one mighty blow, which "
+"means if he doesn't kill, he's in big trouble."
+msgstr ""
+
+#. [unit_type]: id=Orcish Trailblazer, race=orc
+#: An_Orcish_Might/units/orc/Orcish_Trailblazer.cfg:4
+msgid "Orcish Trailblazer"
+msgstr ""
+
+#. [unit_type]: id=Orcish Trailblazer, race=orc
+#: An_Orcish_Might/units/orc/Orcish_Trailblazer.cfg:17
+msgid ""
+"Art credit goes to doofus-01.\n"
+"    \n"
+"Orcs with more experience often find the best chance of survival lies in "
+"knowing when to strike. Caught between the relentless onslaught of dwarven "
+"hammers from the Heart Mountains and the precise strikes of elvish bows in "
+"the Lintair Forest, the fighters of the Bloodthorn clans quickly learned the "
+"need to adapt or perish. In the hills, the orcish trailblazers have begun to "
+"use the axe as their strongest weapon. Yet, they do not forgo their earlier "
+"spears and still have the force to throw them as hard, as always."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Burier, race=undead
+#: An_Orcish_Might/units/undead/Dwarvish_Burier.cfg:4
+msgid "Dwarvish Burier"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Burier, race=undead
+#. [unit_type]: id=Dwarvish Puppeteer, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Burier.cfg:18
+#: An_Orcish_Might/units/undead/Dwarvish_Puppeteer.cfg:17
+msgid "TODO"
+msgstr ""
+
+#. [attack]: type=cold
+#: An_Orcish_Might/units/undead/Dwarvish_Burier.cfg:26
+#: An_Orcish_Might/units/undead/Dwarvish_Healer.cfg:30
+#: An_Orcish_Might/units/undead/Dwarvish_Healmaster.cfg:31
+#: An_Orcish_Might/units/undead/Dwarvish_Mage.cfg:38
+#: An_Orcish_Might/units/undead/Dwarvish_Obscurian.cfg:34
+#: An_Orcish_Might/units/undead/Dwarvish_Puppeteer.cfg:27
+#: An_Orcish_Might/units/undead/Dwarvish_Runeer.cfg:28
+msgid "lightning"
+msgstr ""
+
+#. [attack]: type=arcane
+#: An_Orcish_Might/units/undead/Dwarvish_Burier.cfg:38
+msgid "fatal omens"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Healer, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Healer.cfg:4
+msgid "Dwarvish Healer"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Healer, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Healer.cfg:17
+msgid ""
+"Many of the unenlightened believe that the directors of magic must choose "
+"between light and darkness, but the great power is not quite as simple. "
+"Among the undead wanderers of the dunes who are lucky enough to breathe "
+"their own air are the healers of the dwarves. They have chosen to use their "
+"ability to manipulate magic to heal their kin and even their underlings. "
+"Although one cannot understand why a creature widely regarded as pure evil "
+"would become a healer. One also cannot, however, deny their existence."
+msgstr ""
+
+#. [attack]: type=impact
+#. [attack]: type=fire
+#: An_Orcish_Might/units/undead/Dwarvish_Healer.cfg:57
+#: An_Orcish_Might/units/undead/Dwarvish_Healer.cfg:90
+#: An_Orcish_Might/units/undead/Dwarvish_Healmaster.cfg:58
+#: An_Orcish_Might/units/undead/Dwarvish_Healmaster.cfg:91
+#: An_Orcish_Might/units/undead/Dwarvish_Mage.cfg:65
+msgid "bolas"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Healmaster, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Healmaster.cfg:4
+msgid "Dwarvish Healmaster"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Healmaster, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Healmaster.cfg:18
+msgid ""
+"Even if it is still unclear what exactly drives the dwarf who forces the "
+"dead to dance for him, to alleviate suffering. It is undeniable that the "
+"dwarf who dedicates himself to this task can also master it. Thus, a simple "
+"user of magic becomes a master of his craft and an incredibly important "
+"piece on the board."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Mage, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Mage.cfg:4
+msgid "Dwarvish Mage"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Mage, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Mage.cfg:17
+msgid ""
+"Dwarvish mages, who feel superior to the rest of the dwarves because they "
+"are feared and revered for their power, form the heart of the undead entity. "
+"In the hot sun of the southern lands, most of these dwarven mages have "
+"dedicated their lives to the study of what the respectable call the 'dark "
+"arts'. For the practitioners, however, this is only the most suitable way to "
+"ensure their own sanctity on the perpetual battlefield of the various "
+"factions of the hot dunes."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Obscurian, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Obscurian.cfg:4
+msgid "Dwarvish Obscurian"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Obscurian, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Obscurian.cfg:23
+msgid ""
+"TODO The obscurian only sees flesh, bone and muscle to move, he does not "
+"care if its owner yet brieves. A dwarf who has lived long enough to become "
+"an obscurian in the dunes muust have his share of dark secrets."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Puppeteer, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Puppeteer.cfg:4
+msgid "Dwarvish Puppeteer"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Runeer, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Runeer.cfg:4
+msgid "Dwarvish Runeer"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Runeer, race=dwarf
+#: An_Orcish_Might/units/undead/Dwarvish_Runeer.cfg:17
+msgid ""
+"Though only they themselves truly know it, it is suspected that the magic of "
+"the dwarves not only forces the dead to toil for them, but that they have "
+"also recently discovered how to use their runes on the living, meaning that "
+"they are able to control the living as they control the dead."
+msgstr ""
+
+#. [unit_type]: id=The_Unspoken, race=undead
+#: An_Orcish_Might/units/undead/The_Unspoken.cfg:32
+msgid ""
+"Once upon a time, a young Wesnothian child spent its childhood in the royal "
+"palace in Weldyn, at the very end of the Golden Age of Wesnoth, favored by "
+"Haldirc IV, who protected the child from all the evil that rose in Wesnoth. "
+"But its curiosity won out and the child came into possession of a power long "
+"unseen in Wesnoth. It took some time, but the royal court took notice, and "
+"from that day on, the child's life worsened dramatically, especially after "
+"the death of it's greatest benefactor, the former king himself. With its "
+"power, however, the child rose in position, and as it grew older, it became "
+"the consort of the heir to Haldric, a position never before dreamed of. Most "
+"say it was a love match, but as with many young lovebirds, a quarrel brought "
+"misfortune, in this case misfortune for all of Wesnoth."
+msgstr ""
+
+#. [attack]: type=arcane
+#: An_Orcish_Might/units/undead/The_Unspoken.cfg:41
+msgid "touch"
+msgstr ""
+
+#. [attack]: type=cold
+#: An_Orcish_Might/units/undead/The_Unspoken.cfg:53
+msgid "chill tempest"
+msgstr ""
+
+#. [leadership]: id=troll_leadership
+#: An_Orcish_Might/utils/abilities.cfg:8
+msgid "Troll Inspire"
+msgstr ""
+
+#. [leadership]: id=troll_leadership
+#: An_Orcish_Might/utils/abilities.cfg:9
+msgid ""
+"This unit can inspire own trolls that are next to it, making them fight "
+"better. Adjacent own trolls of lower or equal level will deal 25% more "
+"damage plus 25% for each level they are below the inspiring unit."
+msgstr ""
+
+#. [dummy]
+#: An_Orcish_Might/utils/abilities.cfg:21
+msgid "Poison Immunity"
+msgstr ""
+
+#. [dummy]
+#: An_Orcish_Might/utils/abilities.cfg:22
+msgid ""
+"TODO With the dark arts, come certain 'perks' for example while learning how "
+"to control dead bodies, one learns how to make ones own body immune to "
+"normal mortals issues like poison Some put their own saftey as the most "
+"important thing to achieve, to help with that they have learned how to cure "
+"a unit of poison."
+msgstr ""
+
+#. [illuminates]: id=illumination
+#: An_Orcish_Might/utils/abilities.cfg:37
+msgid "illuminates"
+msgstr ""
+
+#. [illuminates]: id=illumination
+#: An_Orcish_Might/utils/abilities.cfg:38
+msgid "female^illuminates"
+msgstr ""
+
+#. [illuminates]: id=illumination
+#: An_Orcish_Might/utils/abilities.cfg:39
+msgid ""
+"This unit illuminates the surrounding area, making lawful units fight "
+"better, and chaotic units fight worse.\n"
+"\n"
+"Any units adjacent to this unit will fight as if it were dusk when it is "
+"night, and as if it were day when it is dusk."
+msgstr ""
+
+#. [object]: id=359
+#: An_Orcish_Might/utils/items.cfg:21
+msgid "Staff of Swiftness"
+msgstr ""
+
+#. [object]: id=359
+#: An_Orcish_Might/utils/items.cfg:24
+msgid "This staff will grant the bearer swift movement."
+msgstr ""
+
+#. [object]: id=359
+#: An_Orcish_Might/utils/items.cfg:25
+msgid ""
+"This staff was specially crafted for those who are native to the sea! This "
+"unit cannot use the staff."
+msgstr ""
+
+#. [object]
+#: An_Orcish_Might/utils/items.cfg:60
+msgid "Potion of Experience"
+msgstr ""
+
+#. [object]
+#: An_Orcish_Might/utils/items.cfg:63
+msgid "A feeling of experience overwhelms the drinker."
+msgstr ""
+
+#. [object]
+#: An_Orcish_Might/utils/items.cfg:64
+msgid "You are not worthy of healing."
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/utils/reusedEvents.cfg:13
+msgid "Yes, yes, yeeeees! Finally, my power will grow forever!"
+msgstr ""
+
+#. [message]: speaker=Manherr, Manma
+#: An_Orcish_Might/utils/reusedEvents.cfg:17
+msgid "My friend, what has gotten into you?"
+msgstr ""
+
+#. [set_menu_item]: id=Volk_ability
+#: An_Orcish_Might/utils/reusedEvents.cfg:75
+msgid "Volk will let loose a mighty attack!"
+msgstr ""
+
+#. [message]: speaker=Volk
+#: An_Orcish_Might/utils/reusedEvents.cfg:107
+msgid "Learn to fear me!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/utils/reusedEvents.cfg:141
+msgid "Noo! Without your advice there is no chance!"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/utils/reusedEvents.cfg:163
+msgid "Well this is over..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/utils/reusedEvents.cfg:184
+msgid ""
+"Elvis! Why? What have I done for you to abandon me? I... I... I have always "
+"done your bidding..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/utils/reusedEvents.cfg:189
+msgid ""
+"With the death of its bearer, the trolls no longer believe in the power of "
+"Elvis's stone."
+msgstr ""
+
+#. [message]: speaker=Marast the lost
+#: An_Orcish_Might/utils/reusedEvents.cfg:202
+msgid "I dizzz far from my home. Zzzzz."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/utils/reusedEvents.cfg:206
+msgid ""
+"The raza-king of the Serpent Samudra-Sea and kumara-Prince of Neez will be "
+"remembered."
+msgstr ""
+
+#. [message]: speaker=Marast the lost
+#: An_Orcish_Might/utils/reusedEvents.cfg:210
+msgid "I dizzz for a zzztrong leader. Goodzzz."
+msgstr ""
+
+#. [message]: speaker=Floyd
+#: An_Orcish_Might/utils/reusedEvents.cfg:227
+#: An_Orcish_Might/utils/reusedEvents.cfg:239
+msgid "Aua."
+msgstr ""
+
+#. [message]: speaker=Floyd
+#: An_Orcish_Might/utils/reusedEvents.cfg:231
+msgid "Floyd is hurt."
+msgstr ""
+
+#. [message]: speaker=Floyd
+#: An_Orcish_Might/utils/reusedEvents.cfg:235
+msgid "Floyd wants home to his cave..."
+msgstr ""
+
+#. [message]: speaker=Floyd
+#: An_Orcish_Might/utils/reusedEvents.cfg:243
+msgid "Why is Floyd so far from home?"
+msgstr ""
+
+#. [message]: speaker=Floyd
+#: An_Orcish_Might/utils/reusedEvents.cfg:247
+msgid ""
+"Why... Elvis, can you hear me? Can I join you, Elvis? Elvis, I am sorry I "
+"only wanted to make you proud..."
+msgstr ""
+
+#. [message]: speaker=Floyd
+#: An_Orcish_Might/utils/reusedEvents.cfg:251
+msgid "Elvis are you proud?"
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/utils/reusedEvents.cfg:255
+msgid ""
+"Floyd, please! We were the ones who put the boulder in front of you cave! "
+"Come on! Keep going! You have to fight against the pain, Floyd. We will "
+"remove the boulder, I promise. You can go home, I promise! I promise..."
+msgstr ""
+
+#. [message]: speaker=Floyd
+#: An_Orcish_Might/utils/reusedEvents.cfg:259
+msgid "Tragtrad, you stay. I go. No following."
+msgstr ""
+
+#. [message]: speaker=Tragtrad
+#: An_Orcish_Might/utils/reusedEvents.cfg:263
+msgid "I... I'm sorry. Elvis is so proud of you!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: An_Orcish_Might/utils/reusedEvents.cfg:313
+msgid ""
+"There is a magic book here. What should I do with it? (The unit will gain a "
+"fire and arcane ranged attack and increased resistance to fire/arcane "
+"attacks.)"
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/utils/reusedEvents.cfg:315
+msgid ""
+"We can only succeed by embracing the heretical methods of our enemies. Open "
+"it!"
+msgstr ""
+
+#. [object]: id=fireBook
+#: An_Orcish_Might/utils/reusedEvents.cfg:319
+msgid "Mages' Book"
+msgstr ""
+
+#. [object]: id=fireBook
+#: An_Orcish_Might/utils/reusedEvents.cfg:322
+msgid ""
+"You open the book, its pages blank except for one. Two runes, stamped in a "
+"mixture of blood and molten gold, catch your eye. As you touch them, you "
+"feel a new power coursing through you."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: An_Orcish_Might/utils/reusedEvents.cfg:336
+msgid "The book turned into dust in the hands of "
+msgstr ""
+
+#. [effect]: type=fire
+#: An_Orcish_Might/utils/reusedEvents.cfg:346
+msgid "Fire ball"
+msgstr ""
+
+#. [option]
+#: An_Orcish_Might/utils/reusedEvents.cfg:384
+msgid "The mages devilism is nothing for us."
+msgstr ""

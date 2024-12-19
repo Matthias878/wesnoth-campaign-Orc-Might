@@ -35,7 +35,7 @@ Hh, Mm, Hh, Wo, Wo, Gg, Gg, Gg^Esd, Gg^Vh, Rrc, Gg^Vhc, Gg, Ce, Gg, Gg, Gg^Edt, 
 Hh, Mm, Hh, Wo, Wo, Gg, Gg, Ce, Ce, Rrc, Gg, Gg, Ce, Gg, Re, Re, Gg, Gg, Gs^Fms, Gs^Fet, Gll^Fp, Gs^Fms, Gs, Gg, Ww, Gg, Gg
 Hh, Hh, Hh, Hh, Gg, Wo, Wo, Gg, Gg, Rrc, Gg^Vhc, Ce, Gg, Rrc, Gg^Esd, Gg^Esd, Gs^Efm, Gg, Gll^Fp, Gll^Fp, Gd, Gs^Vh, Gg, Gg, Ww, Gg, Gg
 Hh, Hh, Hh, Hh, Gg, Gg, Wo, Gg, Re, Rrc, Rrc, Gg, Gg, Rrc, Gg^Esd, Gs^Esd, Gs, Gs^Efm, Gg, Gs^Fms, Gd, Gd, Gg, Ww, Gg, Gg, Rrc
-Re, Hh, Re, Hh, Gg, Ww^Ewf, Wo, Wwf, Wwf, Gg, Gg, Rrc, Rrc, Rrc, Gg, Gg, Gg, Gg, Gs, Gg, Gg, Gg, Gg, Ww, Rrc, Rrc, Gs
+Re, Hh, 2 Re, Hh, Gg, Ww^Ewf, Wo, Wwf, Wwf, Gg, Gg, Rrc, Rrc, Rrc, Gg, Gg, Gg, Gg, Gs, Gg, Gg, Gg, Gg, Ww, Rrc, Rrc, Gs
 Gg, Re, Gg, Hh, Ww^Bw\r, Ww, Wwf, Wwf, Wwf, Wog, Gg^Fet, Gg, Gg^Fet, Rrc, Gg, Gg, Gg, Gs, Gs, Gg, Gg, Gg, Gg, Gg, Rrc, Gs, Gs
 Gg, Gg^Edt, Ww, Ww, Gg, Re, Gg^Es, Wwf, Ss, Wog^Ewl, Wog^Ewl, Gg^Ecf, Qxua, Rrc, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gs, Gs, Gs, Rrc, Gs
 Gg, Gg, Ww, Gg, Gg^Edt, Gg, Gg, Gg, Ss, Wo, Ww^Ewl, Gg^Fet, Ch, Rrc, Ch, Gg, Gg, Gg, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Gs
@@ -47,7 +47,7 @@ Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg^Vct, Gg, Ch, Gg^Vct, Gg, Rrc, Rrc, Rrc, Gg, Gg^Vc
 Gg, Gg^Edt, Gg^Efm, Gg^Efm, Gg, Gg, Gg, Gg, Gg^Esd, Gg^Vct, Rrc, Rrc, Gg^Vct, Gg^Ecf, Gg^Vct, Rrc, Rrc, Gg^Vct, Gg, Gg, Gg^Edt, Gg, Gg, Gg, Gg^Esd, Gg, Gg
 Gg, Gg, Gg^Efm, Gg^Efm, Gg, Gg, Gg, Gg, Rrc, Rrc, Wo, Wo, Wo, Ww, Wo, Wo, Wo, Rrc, Rrc, Gg^Edt, Gg^Edt, Gg, Gg^Esd, Gg^Esd, Gg, Gg, Gg
 Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Rrc, Gg, Gg, Wo, Ww^Ewl, Ww, Wo, Ww^Edb, Ww^Ewl, Wo, Gg, Gg, Rrc, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc
-Ww, Rrc, Ww, Rrc, Ww, Rrc, Ww, Ch, Ww, Ch, Wo, Ww^Es, Ch, 2 Ch, Ch, Ww, Wo, Ch, Ww, Ch, Wo, Rrc, Wo, Rrc, Ww, Rrc, Wo
+Ww, Rrc, Ww, Rrc, Ww, Rrc, Ww, Ch, Ww, Ch, Wo, Ww^Es, Ch, 5 Ch, Ch, Ww, Wo, Ch, Ww, Ch, Wo, Rrc, Wo, Rrc, Ww, Rrc, Wo
 Ww, Ww^Bsb|, Ww, Ww^Bsb|, Ww, Ww^Bsb|, Ww, Ww, Wo, Wo, Ch, Ch, Isr, Isr^Vhc, Isr^Edt, Ch, Ch, Wo, Wo, Wo, Ww, Wo^Bsb|, Ww, Wo^Bsb|, Wo, Wo^Bsb|, Ww
 Isr, Isc, Isc, Isc, Isr, Isc, Isr, Isr^Vhc, Wo, Ch, Isc, Isr^Vhc, Isc, Isc, Isc, Isr^Vhc, Isc, Ch, Wo, Isr^Vhc, Isr^Edt, Isc, Isr, Isc, Isc, Isc, Isr
 Isr, Isr, Isc, Isr^Vhc, Isc, Isc, Isc, Isr, Wo^Bsb/, Ch, Isr^Vhc, Isc, Ch, Ch, Ch, Isc, Isr^Vhc, Ch, Wo^Bsb\, Isr^Edt, Isc, Isc, Isc, Isr^Vhc, Isc, Isr, Isr
